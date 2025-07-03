@@ -1,0 +1,18 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "amount": {
+              "min": 10,
+              "max": 100
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "twitchNickname": "",
+  "platform": "STREAMLABS",
+  "platformToken": "Get this one from - https://streamlabs.com/",
+  "twitchChatToken": "Get this one from - https://joshepstein.co.uk/streamcraft/token",
+  "twitchIRCEnabledMessage": true
+}

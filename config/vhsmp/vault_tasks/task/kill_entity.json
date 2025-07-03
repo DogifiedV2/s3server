@@ -1,0 +1,96 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 90,
+              "max": 160
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:assassin",
+            "amount": {
+              "min": 10,
+              "max": 50
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 10,
+              "max": 40
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:tank",
+            "amount": {
+              "min": 6,
+              "max": 10
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mobs",
+            "amount": {
+              "min": 150,
+              "max": 300
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:mob_type/champion",
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "@the_vault:dungeon",
+            "amount": {
+              "min": 4,
+              "max": 12
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "@the_vault:guardians",
+            "amount": {
+              "min": 8,
+              "max": 16
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 5
+        }
+      ]
+    }
+  }
+}

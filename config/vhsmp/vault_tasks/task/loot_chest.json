@@ -1,0 +1,74 @@
+{
+	"LEVELS": {
+		"0": {
+			"pool": [
+				{
+					"value": {
+						"value": "@the_vault:wooden",
+						"amount": {
+							"min": 25,
+							"max": 40
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				},
+				{
+					"value": {
+						"value": "@the_vault:ornate",
+						"amount": {
+							"min": 8,
+							"max": 14
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				},
+				{
+					"value": {
+						"value": "@the_vault:gilded",
+						"amount": {
+							"min": 8,
+							"max": 14
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				},
+				{
+					"value": {
+						"value": "@the_vault:living",
+						"amount": {
+							"min": 8,
+							"max": 14
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				},
+				{
+					"value": {
+						"value": "@the_vault:coins",
+						"amount": {
+							"min": 8,
+							"max": 14
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				},
+				{
+					"value": {
+						"value": "@the_vault:chest",
+						"amount": {
+							"min": 80,
+							"max": 150
+						},
+						"floorToNearestTen": false
+					},
+					"weight": 10
+				}
+			]
+		}
+	}
+}

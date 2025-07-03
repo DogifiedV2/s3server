@@ -1,0 +1,115 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:creeper",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "20": {
+      "pool": [
+        {
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:creeper",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "minecraft:skeleton",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:zombie",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:creeper",
+            "amount": {
+              "min": 100,
+              "max": 500
+            },
+            "floorToNearestTen": true
+          },
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

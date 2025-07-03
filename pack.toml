@@ -1,0 +1,13 @@
+name = "S3Server"
+author = "Dog"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "074044509956a7c3d19a8e8e338534f3f6680983e59f4c92b9c75afcb4c1cd64"
+
+[versions]
+forge = "40.2.21"
+minecraft = "1.18.2"

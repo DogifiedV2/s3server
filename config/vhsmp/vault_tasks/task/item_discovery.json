@@ -1,0 +1,42 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:trinket",
+            "amount": {
+              "min": 1,
+              "max": 1
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:jewel_pouch",
+            "amount": {
+              "min": 3,
+              "max": 6
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:mod_box",
+            "amount": {
+              "min": 3,
+              "max": 8
+            },
+            "floorToNearestTen": false
+          },
+          "weight": 10
+        }
+      ]
+    }
+    
+  }
+}

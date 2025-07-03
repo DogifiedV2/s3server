@@ -1,0 +1,25 @@
+{
+    "entityPredicateDisplay": {
+      "@the_vault:horde": "Horde Mobs",
+      "@the_vault:assassin": "Assassin Mobs",
+      "@the_vault:tank": "Tanks",
+      "@the_vault:dungeon":  "Dungeon Mobs",
+      "@the_vault:fighter": "Vault Fighters",
+      "@the_vault:mobs": "Vault Mobs",
+      "@the_vault:mob_type/champion": "Champions",
+      "@the_vault:guardians": "Vault Guardians"
+    },
+    "tilePredicateDisplay": {
+      "@the_vault:ores": "Vault Ores",
+      "the_vault:ore_echo": "Echo Ore"
+    },
+    "ifPredicateIsThenReplaceEntire": {
+      "@the_vault:chest": "Loot Chests",
+      "@the_vault:wooden": "Loot Wooden Chests",
+      "@the_vault:ornate": "Loot Ornate Chests",
+      "@the_vault:gilded": "Loot Gilded Chests",
+      "@the_vault:living": "Loot Living Chests",
+      "@the_vault:coins": "Loot Coins"
+    },
+    "hideCompanionBoostOverlay": false
+  }

@@ -1,0 +1,45 @@
+{
+  "pools": {
+    "vhsmp:default": [
+      {
+        "value": {
+          "children": [],
+          "operating": false,
+          "filter": "the_vault:gilded_chest",
+          "counter": {
+            "variables": {},
+            "target": {
+              "min": 1,
+              "max": 20,
+              "type": "uniform"
+            },
+            "predicate": "GREATER_OR_EQUAL_TO",
+            "type": "target"
+          },
+          "type": "loot_chest"
+        },
+        "weight": 1.0
+      },
+      {
+        "value": {
+          "children": [],
+          "operating": false,
+          "filter": "@the_vault:player_ores[generated=true]",
+          "counter": {
+            "variables": {},
+            "target": {
+              "min": 1,
+              "max": 20,
+              "type": "uniform"
+            },
+            "predicate": "GREATER_OR_EQUAL_TO",
+            "type": "target"
+          },
+          "type": "mine_block"
+        },
+        "weight": 1.0
+      }
+    ]
+  },
+  "taskChance": 0.5
+}

@@ -1,0 +1,47 @@
+{
+  "gemstoneGivingXpValue": {
+    "OMEGA": {
+      "min": 31.0,
+      "max": 35.0,
+      "type": "uniform"
+    },
+    "COMMON": {
+      "min": 1.0,
+      "max": 10.0,
+      "type": "uniform"
+    },
+    "EPIC": {
+      "min": 21.0,
+      "max": 30.0,
+      "type": "uniform"
+    },
+    "RARE": {
+      "min": 11.0,
+      "max": 20.0,
+      "type": "uniform"
+    }
+  },
+  "gemstoneRarityValue": {
+    "OMEGA": {
+      "min": 31000,
+      "max": 35000,
+      "type": "uniform"
+    },
+    "COMMON": {
+      "min": 2000,
+      "max": 10000,
+      "type": "uniform"
+    },
+    "EPIC": {
+      "min": 21000,
+      "max": 30000,
+      "type": "uniform"
+    },
+    "RARE": {
+      "min": 11000,
+      "max": 20000,
+      "type": "uniform"
+    }
+  },
+  "doinCost": 100000
+}

@@ -13981,6 +13981,10 @@ file = "mods/Terralith_v2.2.3.jar"
 hash = "22b72a4bee7ff9970410d29a10f8cf1a90ffbd25087ceaf408f66bab9622ad1d"
 
 [[files]]
+file = "mods/VaultersParadiseServer-2.0.0-all.jar"
+hash = "ccedf2401e87256941c5e50aa9a67d907acba4a48e90ab67eec2cb1d27caba1d"
+
+[[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
 
@@ -14410,7 +14414,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.0-SNAPSHOT.jar"
-hash = "b2bda18f0a8792ee686d3ebb9625fc38982c01f70bcfb67b40d22c1ce3143874"
+hash = "9e01f10e5366abd89fff028d8c28fcc1dcadabf962411dd76a34ca760fbe30d8"
 
 [[files]]
 file = "mods/shetiphiancore-1.18-3.10.12.jar"

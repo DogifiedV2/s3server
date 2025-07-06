@@ -13705,6 +13705,10 @@ file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
 hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 
 [[files]]
+file = "mods/Chunk-Pregenerator-1.18.2-4.4.5.jar"
+hash = "b696fb1915e703d7adf37a640551601baf7436842f1ea794ba5e442d432b2553"
+
+[[files]]
 file = "mods/ChunkyMcChunkFace-1.18.2-0.3.2.jar"
 hash = "1d1ba285dfeeb492f04e414d93531e7129ded9614cfd63c91eaa40270d60e633"
 
@@ -13975,6 +13979,10 @@ hash = "22b72a4bee7ff9970410d29a10f8cf1a90ffbd25087ceaf408f66bab9622ad1d"
 [[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
+
+[[files]]
+file = "mods/XNetGases-1.18.2-3.0.1.jar"
+hash = "c2b65dcec024f777f69e436f59ec2f36d4fa9aa3e8c4dc601512480cc53d58cf"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.28.7_Forge_1.18.2.jar"
@@ -14507,6 +14515,10 @@ hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
 [[files]]
 file = "mods/vault_hunters_sync_server_config-1.5.0.jar"
 hash = "f08d03c24f7a78b4f7f8793705eda3377a62489b98be5cca37c4447b991be41b"
+
+[[files]]
+file = "mods/vaultfilters-1.21.1.jar"
+hash = "1520f33e33c32ea759b9f46f452ddbc342337f298b72646f460ac5798b62f8b9"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.15.jar"

@@ -13705,6 +13705,10 @@ file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
 hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 
 [[files]]
+file = "mods/CarbonConfig-1.18.2-1.2.7.1.jar"
+hash = "049605232192afacfd459a638eb7946e4fb484033935e5d25d8c5685bce93e72"
+
+[[files]]
 file = "mods/Chunk-Pregenerator-1.18.2-4.4.5.jar"
 hash = "b696fb1915e703d7adf37a640551601baf7436842f1ea794ba5e442d432b2553"
 

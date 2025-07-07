@@ -14506,7 +14506,7 @@ hash = "3ffc43e4cd45e46aa4f921a7512c5cf742780f9d2ec6affa1a333e05d3fa9dde"
 
 [[files]]
 file = "kubejs/server_scripts/mega_cells/recipes.js"
-hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
+hash = "39595446e10d958332676c2fc9a5c45494fb189d8af992f1ed237c6b213fa9a0"
 
 [[files]]
 file = "kubejs/server_scripts/mvt.js"
@@ -14599,6 +14599,10 @@ hash = "1300bc74d0cc1fad40261b0a888fc3c8b88594c43b9063b5f6a6b7456518ed1f"
 [[files]]
 file = "mods/BotanyPots-Forge-1.18.2-8.0.23.jar"
 hash = "582c639317e7a4bd61dfa3e9467f597f3a3998ebe8b6e55b2e48aba925786bb7"
+
+[[files]]
+file = "mods/BotanyPotsTiers-Forge-1.18.2-2.2.0.jar"
+hash = "a9db5be6f21892474ce698a2958104bca32a2432e427d194bfb51fe831786114"
 
 [[files]]
 file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
@@ -15179,6 +15183,10 @@ hash = "0729bb2cc09ee8846606918b55c148d21150d7d4b9d40bdc75be819400347b21"
 [[files]]
 file = "mods/libnonymous-2.1.0.jar"
 hash = "28766ce614bc8987b7feca15fac928aa53f8e974b63674cc49eb783a276c4e58"
+
+[[files]]
+file = "mods/lightmanscurrency-1.18.2-2.1.2.5e.jar"
+hash = "579f40ff9d967bc69dbd498ec295e748b9fd9ef87a51e6f5c340e8e0248327cb"
 
 [[files]]
 file = "mods/lightspeed-1.18.2-1.0.5.jar"

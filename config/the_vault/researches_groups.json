@@ -3,16 +3,29 @@
     "Storage": {
       "title": "Storage",
       "research": [
-        "Colossal Chests",
-        "Simple Storage Network",
-        "Refined Storage",
         "Applied Energistics",
         "Drawers",
-        "Mekanism QIO"
+        "Functional Storage",
+        "Toms Simple Storage",
+        "Sophisticated Storage"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
         "Storage": 0.24
+      }
+    },
+    "Addons": {
+      "title": "Addons",
+      "research": [
+        "Mega Cells",
+        "Mekanism QIO",
+        "Create Crafts and Additions",
+        "Time in a Bottle",
+        "Digital Waystones"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Addons": 1
       }
     },
     "BigToys": {
@@ -22,8 +35,7 @@
         "Weirding Gadgets",
         "Digital Miner",
         "Building Gadgets",
-        "Laser Bridges",
-        "Entangled"
+        "Laser Bridges"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -33,13 +45,13 @@
     "Production": {
       "title": "Production",
       "research": [
-        "Easy Villagers",
+        "Easy Traders",
         "SNAD",
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
-        "Easy Piglins",
-        "Botany Pots"
+        "Botany Pots",
+        "Bonsai Trees"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -82,7 +94,8 @@
         "Elevators",
         "Waystones",
         "Vault Compass",
-        "Altar Automation"
+        "Altar Automation",
+        "Soul Harvester"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -98,28 +111,28 @@
         "Junk Management",
         "Stack Upgrading",
         "Auto Feeding",
-        "Auto Refill",
-        "Soul Harvester"
-
+        "Auto Refill"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
         "Looting": 2.0
       }
     },
-      "Handling": {
-        "title": "Handling",
-        "research": [
-          "Xnet",
-          "Modular Routers",
-          "Pipez",
-          "Iron Furnaces",
-          "Dark Utilities"
-        ],
-        "globalCostIncrease": 0.0,
-        "groupCostIncrease": {
-          "Handling": 5.0
-        }
+    "Handling": {
+      "title": "Handling",
+      "research": [
+        "Xnet",
+        "Modular Routers",
+        "Pipez",
+        "Iron Furnaces",
+        "Dark Utilities",
+        "Entangled",
+        "Integrated Dynamics"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Handling": 5.0
+      }
     },
     "Alchemy": {
       "title": "Vault Upgrades",
@@ -127,14 +140,13 @@
         "Potions",
         "Mixtures",
         "Brews",
-        "Vault Compass",
         "Map Markers",
-        "Big Boi Map"
+        "Vault Map"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Alchemy": 4.0
+        "Alchemy": 5.0
       }
-  }
+    }
   }
 }

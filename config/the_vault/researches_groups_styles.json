@@ -12,12 +12,12 @@
     },
     "Handling": {
       "group": "Handling",
-      "headerColor": -8388608,
+      "headerColor": -16776961,
       "headerTextColor": -1,
       "x": -10,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/handling"
     },
     "BigToys": {
@@ -25,7 +25,7 @@
       "headerColor": -16776961,
       "headerTextColor": -1,
       "x": -10,
-      "y": 215,
+      "y": 255,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/big_toys"
@@ -47,7 +47,7 @@
       "x": 370,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/base"
     },
     "Production": {
@@ -55,7 +55,7 @@
       "headerColor": -11298849,
       "headerTextColor": -1,
       "x": 180,
-      "y": 215,
+      "y": 255,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/farming"
@@ -67,7 +67,7 @@
       "x": 180,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {
@@ -80,12 +80,22 @@
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/looting"
     },
+    "Addons": {
+      "group": "Addons",
+      "headerColor": -3224324,
+      "headerTextColor": -1,
+      "x": 560,
+      "y": -25,
+      "boxWidth": 170,
+      "boxHeight": 145,
+      "icon": "the_vault:gui/research_groups/addons"
+    },
     "Alchemy": {
       "group": "Alchemy",
       "headerColor": -14336,
       "headerTextColor": -1,
       "x": 370,
-      "y": 215,
+      "y": 255,
       "boxWidth": 170,
       "boxHeight": 105,
       "icon": "the_vault:gui/research_groups/vault_upgrades"

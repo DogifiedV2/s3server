@@ -2,6 +2,40 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "colossalchests"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Colossal Chests [UNAVAILABLE]",
+      "cost": 999,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "bonsaitrees3"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Bonsai Pots",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "laserbridges"
       ],
       "restrictions": {
@@ -18,42 +52,41 @@
       "usesKnowledge": true
     },
     {
-      "modIds": [
-        "entangled"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+      "itemRestrictions": {
+        "the_vault:map_marker": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true,
+            "BLOCK_INTERACTABILITY": true
+          }
         }
       },
-      "name": "Entangled",
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Map Markers",
       "cost": 3,
       "usesKnowledge": true
     },
     {
-      "modIds": [
-        "colossalchests"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+      "itemRestrictions": {
+        "the_vault:vault_map": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
         }
       },
-      "name": "Colossal Chests",
-      "cost": 1,
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Map",
+      "cost": 4,
       "usesKnowledge": true
     },
     {
       "modIds": [
-        "storagenetwork"
+        "toms_storage"
       ],
       "restrictions": {
         "restricts": {
@@ -64,7 +97,111 @@
           "ENTITY_INTERACTABILITY": true
         }
       },
-      "name": "Simple Storage Network",
+      "name": "Toms Simple Storage",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "sophisticatedstorage"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Sophisticated Storage",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "createaddition"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Create Crafts and Additions",
+      "cost": 4,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "entangled"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Entangled",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "integrateddynamics",
+        "integratedterminals",
+        "integratedtunnels"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Integrated Dynamics",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "tiab"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Time in a Bottle",
+      "cost": 24,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "storagenetwork"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Simple Storage Network [UNAVAILABLE]",
       "cost": 1,
       "usesKnowledge": true
     },
@@ -83,6 +220,23 @@
       },
       "name": "Waystones",
       "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "vaultersparadise"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": false,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Digital Waystones",
+      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -191,7 +345,7 @@
     },
     {
       "modIds": [
-        "refinedstorage"
+        "functionalstorage"
       ],
       "restrictions": {
         "restricts": {
@@ -202,7 +356,7 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Refined Storage",
+      "name": "Functional Storage",
       "cost": 2,
       "usesKnowledge": true,
       "discoversModels": [
@@ -211,6 +365,25 @@
         "the_vault:gear/armor/arcade/leggings",
         "the_vault:gear/armor/arcade/boots"
       ]
+    },
+    {
+      "modIds": [
+        "refinedstorage",
+        "rsrequestify",
+        "refinedstorageaddons"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Refined Storage [UNAVAILABLE]",
+      "cost": 9999,
+      "usesKnowledge": true
     },
     {
       "modIds": [
@@ -234,6 +407,23 @@
         "the_vault:gear/armor/robotic/leggings",
         "the_vault:gear/armor/robotic/boots"
       ]
+    },
+    {
+      "modIds": [
+        "megacells"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Mega Cells",
+      "cost": 8,
+      "usesKnowledge": true
     },
     {
       "modIds": [
@@ -415,29 +605,7 @@
     },
     {
       "modIds": [
-        "easy_villagers"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Easy Villagers",
-      "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/villager/helmet",
-        "the_vault:gear/armor/villager/chestplate",
-        "the_vault:gear/armor/villager/leggings",
-        "the_vault:gear/armor/villager/boots"
-      ]
-    },
-    {
-      "modIds": [
+        "easy_villagers",
         "easy_piglins"
       ],
       "restrictions": {
@@ -449,9 +617,15 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Easy Piglins",
+      "name": "Easy Traders",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/villager/helmet",
+        "the_vault:gear/armor/villager/chestplate",
+        "the_vault:gear/armor/villager/leggings",
+        "the_vault:gear/armor/villager/boots"
+      ]
     },
     {
       "modIds": [
@@ -490,8 +664,7 @@
         "the_vault:gear/armor/create/helmet",
         "the_vault:gear/armor/create/chestplate",
         "the_vault:gear/armor/create/leggings",
-        "the_vault:gear/armor/create/boots",
-        "the_vault:gear/sword/create_sword"
+        "the_vault:gear/armor/create/boots"
       ]
     },
     {
@@ -682,16 +855,16 @@
             "CRAFTABILITY": true
           }
         }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Iron Generators",
+      "cost": 1,
+      "usesKnowledge": true
     },
-    "blockRestrictions": {},
-    "entityRestrictions": {},
-    "name": "Iron Generators",
-    "cost": 1,
-    "usesKnowledge": true
-  },
-    
-    
-    
+
+
+
     {
       "itemRestrictions": {
         "ae2:molecular_assembler": {
@@ -916,39 +1089,6 @@
     },
     {
       "itemRestrictions": {
-        "the_vault:map_marker": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true,
-            "BLOCK_INTERACTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Map Markers",
-      "cost": 3,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "the_vault:vault_map": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Vault Map",
-      "cost": 4,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
         "vaultintegrations:altar_conduit": {
           "restricts": {
             "HITTABILITY": true,
@@ -1049,9 +1189,9 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
+          }
         }
-          
+
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1066,8 +1206,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1082,8 +1222,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1173,7 +1313,6 @@
         "the_vault:gear/armor/dank/boots"
       ]
     },
-    
     {
       "itemRestrictions": {
       },
@@ -1336,7 +1475,6 @@
         "the_vault:gear/armor/scout/boots"
       ]
     },
-    
     {
       "itemRestrictions": {
         "the_vault:vault_harvester": {

@@ -472,7 +472,7 @@ onEvent("recipes", event => {
         ], {
         V: 'the_vault:vault_essence_1',
         C: 'integrateddynamics:part_display_panel',
-        B: 'woldsvaults:pog_prism',
+        B: 'the_vault:gem_pog',
         O: 'integrateddynamics:variable_transformer_output',
         I: 'integrateddynamics:variable_transformer_input',
         S: 'the_vault:chromatic_steel_block'
@@ -549,7 +549,7 @@ onEvent("recipes", event => {
         C: 'the_vault:wooden_planks',
         O: 'integrateddynamics:variable_transformer_output',
         I: 'integrateddynamics:variable_transformer_input',
-        M: 'woldsvaults:pog_prism'
+        M: 'the_vault:gem_pog'
     })
 
     event.shaped(Item.of('integratedcrafting:part_crafting_writer'),

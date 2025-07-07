@@ -14474,7 +14474,7 @@ hash = "11077e97ce46d221d054299b1d94fe6d001e7faaa2a7cd9a74d566ce7ce8245b"
 
 [[files]]
 file = "kubejs/server_scripts/botanypottiers/recipes.js"
-hash = "18ba3db504d5ef72f0a87a8732b579456aec1927e2b8077a79c5bfc4ab5bdfd3"
+hash = "8f1666b6f7f458d07a3932a933088a50270e9bd539134d3d0685523bed417038"
 
 [[files]]
 file = "kubejs/server_scripts/createadditions/recipes.js"
@@ -14482,11 +14482,11 @@ hash = "5efa59f913824ebfdd4fd6175e5319350706cd1690bb38076313ae0b34d18e20"
 
 [[files]]
 file = "kubejs/server_scripts/entangled/recipes.js"
-hash = "2c79af480ee141cc82eec121f2ccd2745e0908f8c0ebb380c764c46f66aa8976"
+hash = "24352a8cdb4ee670ed9ca1419199f366c74b2ba1d296a3b1e890c186f7436b53"
 
 [[files]]
 file = "kubejs/server_scripts/functionalstorage/recipes.js"
-hash = "9ff9ceb201ab680beade1a52a29788228b74c6566036d4011a5f56699429b35c"
+hash = "8233fcc38bd964743eb7aa44904036c081b5636462fb177f4d01ef8ea1a92924"
 
 [[files]]
 file = "kubejs/server_scripts/integrateddynamics/biome_tags.js"
@@ -14494,7 +14494,7 @@ hash = "1e83eefc13730715bd9216cf51319bff4cfb2f69ba4342e2cf854d0d3d4c5232"
 
 [[files]]
 file = "kubejs/server_scripts/integrateddynamics/recipes.js"
-hash = "407687c2a30e4d01d00988fb023c37e8c57807353459985d5b06e45622323f40"
+hash = "b5fbaac843178bff7074357c6790052446b267625f3f7075fa3ec5e632abde52"
 
 [[files]]
 file = "kubejs/server_scripts/laserio/recipes.js"
@@ -14502,7 +14502,7 @@ hash = "c8efa52510feac94fde3700578f018c01d850f7f336705b1a0ca5fb338b3ed38"
 
 [[files]]
 file = "kubejs/server_scripts/lightmans_currency/recipes.js"
-hash = "beb9cc6afea0c1c0b23abbab9c05e0d61d03e01b1d40738fac8825ca9af56124"
+hash = "3ffc43e4cd45e46aa4f921a7512c5cf742780f9d2ec6affa1a333e05d3fa9dde"
 
 [[files]]
 file = "kubejs/server_scripts/mega_cells/recipes.js"
@@ -14518,7 +14518,7 @@ hash = "1a031fcab44e3f10cd7df476dd820f90f5cd40ceb3498c7b40d272aa43d5f318"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticatedstorage/recipes.js"
-hash = "003b8974aefd1e166be1631929a51136336594656527372789f315f6d31fd1e3"
+hash = "e17967b444e8fdb97b8228381ede82723326da533754ca274c907b6a3e6df2b6"
 
 [[files]]
 file = "kubejs/server_scripts/ssn/recipes.js"
@@ -14546,11 +14546,11 @@ hash = "14085357c1990f272cebeaf487c00eb4f38e697a2e070d5ac7dd9c7192287840"
 
 [[files]]
 file = "kubejs/startup_scripts/functionalstorage/recipes.js"
-hash = "412c3ef7f77ee06f7b398f364a0d0f7f55e132289bb753f388817f54ef8d499f"
+hash = "1691875ea29235e8a043182a22799d384e5b15f308e8cce372bec1db68f825cd"
 
 [[files]]
 file = "kubejs/startup_scripts/lightmans_currency/recipes.js"
-hash = "beb9cc6afea0c1c0b23abbab9c05e0d61d03e01b1d40738fac8825ca9af56124"
+hash = "3ffc43e4cd45e46aa4f921a7512c5cf742780f9d2ec6affa1a333e05d3fa9dde"
 
 [[files]]
 file = "kubejs/startup_scripts/mega_cells/recipes.js"

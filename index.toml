@@ -13082,7 +13082,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "2dfc85afbfe0ea71d9f032d2faa430b27f8b4e121fa0f78ac7ad8c021898cb1b"
+hash = "fcf86baa0c7af79f261f9a68899c126110f589768a34fb2b820dfcfb7874218c"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -13126,7 +13126,7 @@ hash = "40403d50a1a73bfa56a1536efccca3d162f25fd8171d97595d6eb1ec1504bc17"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "81e45d4d3fad61d3939b8668e02ae43de80e6dd5483dabde8e818117974cc95a"
+hash = "f75bec3b9a179b3d79951c9a0050fa1d11c123112910c33351439e3f2d191cc9"
 
 [[files]]
 file = "config/the_vault/skill_gates_original.json"

@@ -19,14 +19,7 @@ let removedOutputsMC = [
     'megacells:fluid_storage_cell_64m',
     'megacells:fluid_storage_cell_256m',
     'megacells:bulk_item_cell',
-    'megacells:fluid_storage_cell_1m',
-    'megacells:mega_chemical_cell_housing',
-    'megacells:chemical_storage_cell_1m',
-    'megacells:chemical_storage_cell_4m',
-    'megacells:chemical_storage_cell_16m',
-    'megacells:chemical_storage_cell_64m',
-    'megacells:chemical_storage_cell_256m',
-    'megacells:radioactive_chemical_cell'
+    'megacells:fluid_storage_cell_1m'
 ];
 onEvent("recipes", event => {
     removedOutputsMC.forEach(id => {
@@ -287,88 +280,5 @@ onEvent("recipes", event => {
         I: 'mekanism:ingot_osmium',
         X: 'the_vault:gem_black_opal',
         L: 'compressium:obsidian_1'
-    })
-
-    event.shaped(Item.of('megacells:chemical_storage_cell_1m'),
-        [
-            'LXL',
-            'XDX',
-            'III'
-        ], {
-        I: 'mekanism:ingot_osmium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:cell_component_1m'
-    })
-
-    event.shapeless('megacells:chemical_storage_cell_1m', ['megacells:mega_chemical_cell_housing', 'megacells:cell_component_1m'])
-
-    event.shaped(Item.of('megacells:chemical_storage_cell_4m'),
-        [
-            'LXL',
-            'XDX',
-            'III'
-        ], {
-        I: 'mekanism:ingot_osmium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:cell_component_4m'
-    })
-
-    event.shapeless('megacells:chemical_storage_cell_4m', ['megacells:mega_chemical_cell_housing', 'megacells:cell_component_4m'])
-
-    event.shaped(Item.of('megacells:chemical_storage_cell_16m'),
-        [
-            'LXL',
-            'XDX',
-            'III'
-        ], {
-        I: 'mekanism:ingot_osmium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:cell_component_16m'
-    })
-
-    event.shapeless('megacells:chemical_storage_cell_1m', ['megacells:mega_chemical_cell_housing', 'megacells:cell_component_16m'])
-
-    event.shaped(Item.of('megacells:chemical_storage_cell_64m'),
-        [
-            'LXL',
-            'XDX',
-            'III'
-        ], {
-        I: 'mekanism:ingot_osmium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:cell_component_64m'
-    })
-
-    event.shapeless('megacells:chemical_storage_cell_64m', ['megacells:mega_chemical_cell_housing', 'megacells:cell_component_64m'])
-
-    event.shaped(Item.of('megacells:chemical_storage_cell_256m'),
-        [
-            'LXL',
-            'XDX',
-            'III'
-        ], {
-        I: 'mekanism:ingot_osmium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:cell_component_256m'
-    })
-
-    event.shapeless('megacells:chemical_storage_cell_256m', ['megacells:mega_chemical_cell_housing', 'megacells:cell_component_256m'])
-
-    event.shaped(Item.of('megacells:radioactive_chemical_cell'),
-        [
-            'LXL',
-            'XDX',
-            'SPS'
-        ], {
-        S: 'mekanism:hdpe_sheet',
-        P: 'mekanism:pellet_polonium',
-        X: 'the_vault:gem_black_opal',
-        L: 'compressium:obsidian_1',
-        D: 'megacells:radioactive_cell_component'
     })
 })

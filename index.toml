@@ -14554,7 +14554,7 @@ hash = "3ffc43e4cd45e46aa4f921a7512c5cf742780f9d2ec6affa1a333e05d3fa9dde"
 
 [[files]]
 file = "kubejs/startup_scripts/mega_cells/recipes.js"
-hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
+hash = "1803032307c6538cb07ce64626ea9af4a0a2a057e63f206577135e4b147c7b9e"
 
 [[files]]
 file = "kubejs/startup_scripts/vh_compression/blocks.js"

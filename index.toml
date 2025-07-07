@@ -14486,7 +14486,7 @@ hash = "24352a8cdb4ee670ed9ca1419199f366c74b2ba1d296a3b1e890c186f7436b53"
 
 [[files]]
 file = "kubejs/server_scripts/functionalstorage/recipes.js"
-hash = "8233fcc38bd964743eb7aa44904036c081b5636462fb177f4d01ef8ea1a92924"
+hash = "67f1989335d52ca054f47ae9b11f6a13af38779874fc337db9ed503235845a6b"
 
 [[files]]
 file = "kubejs/server_scripts/integrateddynamics/biome_tags.js"
@@ -14546,7 +14546,7 @@ hash = "14085357c1990f272cebeaf487c00eb4f38e697a2e070d5ac7dd9c7192287840"
 
 [[files]]
 file = "kubejs/startup_scripts/functionalstorage/recipes.js"
-hash = "1691875ea29235e8a043182a22799d384e5b15f308e8cce372bec1db68f825cd"
+hash = "a3032772624545d4e7840a6b100db97d63986a9de33a6b377fa3621587cce874"
 
 [[files]]
 file = "kubejs/startup_scripts/lightmans_currency/recipes.js"

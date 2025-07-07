@@ -59,7 +59,7 @@ onEvent("recipes", event => {
         ], {
         G: 'the_vault:driftwood_planks',
         X: 'the_vault:chromatic_iron_ingot',
-        D: `framedblocks:framed_cube`
+        D: `framedcompactdrawers:framed_trim`
     }).id('functionalstorage:framed_1')
 
     event.shaped(Item.of(`functionalstorage:framed_2`),
@@ -70,7 +70,7 @@ onEvent("recipes", event => {
         ], {
         G: 'the_vault:driftwood_planks',
         X: 'the_vault:chromatic_iron_ingot',
-        D: `framedblocks:framed_slab`
+        D: `framedcompactdrawers:framed_trim`
     }).id('functionalstorage:framed_2')
 
     event.shaped(Item.of(`functionalstorage:framed_4`),
@@ -81,7 +81,7 @@ onEvent("recipes", event => {
         ], {
         G: 'the_vault:driftwood_planks',
         X: 'the_vault:chromatic_iron_ingot',
-        D: `framedblocks:framed_button`
+        D: `framedcompactdrawers:framed_trim`
     }).id('functionalstorage:framed_4')
 
     event.shaped(Item.of(`functionalstorage:compacting_drawer`),
@@ -96,7 +96,7 @@ onEvent("recipes", event => {
         D: '#functionalstorage:drawer'
     }).id('functionalstorage:compacting_drawer')
 
-    event.shapeless('functionalstorage:compacting_framed_drawer', ['functionalstorage:compacting_drawer', 'framedblocks:framed_cube']).id('functionalstorage:compacting_framed_drawer')
+    event.shapeless('functionalstorage:compacting_framed_drawer', ['functionalstorage:compacting_drawer', 'framedcompactdrawers:framed_trim']).id('functionalstorage:compacting_framed_drawer')
 
     event.shapeless('functionalstorage:fluid_1', ['#functionalstorage:drawer', 'minecraft:bucket']).id('functionalstorage:fluid_1')
     event.shapeless('functionalstorage:fluid_2', ['functionalstorage:fluid_1']).id('functionalstorage:fluid_2')
@@ -159,7 +159,7 @@ onEvent("recipes", event => {
         c: 'the_vault:chromatic_iron_block',
         S: 'the_vault:perfect_larimar',
         D: 'functionalstorage:copper_upgrade',
-        C: 'woldsvaults:chromatic_gold_block'
+        C: 'the_vault:chromatic_iron_block'
     }).id('functionalstorage:gold_upgrade')
 
     event.shaped(Item.of(`functionalstorage:diamond_upgrade`),

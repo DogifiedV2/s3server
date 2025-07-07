@@ -94,8 +94,7 @@
         "Elevators",
         "Waystones",
         "Vault Compass",
-        "Altar Automation",
-        "Soul Harvester"
+        "Altar Automation"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -111,7 +110,8 @@
         "Junk Management",
         "Stack Upgrading",
         "Auto Feeding",
-        "Auto Refill"
+        "Auto Refill",
+        "Soul Harvester"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -127,6 +127,7 @@
         "Iron Furnaces",
         "Dark Utilities",
         "Entangled",
+        "LaserIO",
         "Integrated Dynamics"
       ],
       "globalCostIncrease": 0.0,

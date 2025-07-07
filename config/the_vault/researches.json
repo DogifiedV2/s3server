@@ -19,6 +19,23 @@
     },
     {
       "modIds": [
+        "laserio"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "LaserIO",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "bonsaitrees3"
       ],
       "restrictions": {

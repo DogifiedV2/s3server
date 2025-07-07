@@ -162,6 +162,18 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/elevators"
     },
+    "Laser Bridges": {
+      "x": 10,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/laser_bridges"
+    },
+    "LaserIO": {
+      "x": 60,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/laserio"
+    },
     "Vault Compass": {
       "x": 440,
       "y": 160,
@@ -169,10 +181,22 @@
       "icon": "the_vault:gui/researches/vault_compass"
     },
     "Soul Harvester": {
-      "x": 490,
-      "y": 200,
+      "x": 250,
+      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/soul_harvester"
+    },
+    "Map Markers": {
+      "x": 440,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/markers"
+    },
+    "Vault Map": {
+      "x": 390,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/vault_map"
     },
     "Altar Automation": {
       "x": 490,
@@ -253,8 +277,8 @@
       "icon": "the_vault:gui/researches/dark_utilities"
     },
     "Entangled": {
-      "x": 110,
-      "y": 200,
+      "x": 60,
+      "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/entangled"
     },

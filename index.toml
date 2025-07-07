@@ -1642,11 +1642,11 @@ hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "4f2d0ec02350b5321e4e121d51b1cdb73f30a7a5a49ff7656e11812b0a4d8e03"
+hash = "4c3c61bda0329749a0c35d8c5788bb17c801b0b43912b9277ff9537dce46782e"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "cedab8612c0f592f63163605a81196c39de18df7fb033801dbab6affc59971f4"
+hash = "a21a59d6b434e280a14f44327c9a62f5354dfc0cadafcc68efb9945049016580"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -1654,7 +1654,7 @@ hash = "cd5aef4230778ff80bfee9f451c24c7c6e71880482d358ed75ce2ea867b51b1e"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "88c7edd8e6d8346b99c05872749bc6da86920da619f07b0f953366089a342ca7"
+hash = "84d6fc4d394e2a558e680d36bfaba9b3b1f586fe0161199860600664a3af2558"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -13082,11 +13082,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "fcf86baa0c7af79f261f9a68899c126110f589768a34fb2b820dfcfb7874218c"
+hash = "18b42a95fa65043c83a233f0135879dd2d10764c77865d3b3955a1fa13f2d29d"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "696237a86347ee91d62da64ef7174b182a29f6f340e66caf8f112807e5c79bdb"
+hash = "b2343426d77a21a6266d52ec4ab420eb047cc10267e934108ecb88435ee98a5b"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -13094,7 +13094,7 @@ hash = "afbeeddf1102feaedded8c20c65571f078b39ff7526a42db4795f09a2f8bd520"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "032037a32a5ac4a52c65c5fffeedc35529c90b4d621ab88650ed87da5a8bcbd2"
+hash = "972bed57acdd883de80a68fb064f4d767a136fc77b5cb1a833be3b089c48e8b2"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -13122,7 +13122,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "40403d50a1a73bfa56a1536efccca3d162f25fd8171d97595d6eb1ec1504bc17"
+hash = "aa7c4eb0cf4dd8b57e2951c94dcf5f483908da7a9c4c4599a2313b6f89e3fda9"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"

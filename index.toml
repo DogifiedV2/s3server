@@ -1105,6 +1105,34 @@ file = "config/legendarytooltips-common.toml"
 hash = "6b3a0c3378457ee99e01144c6a83a68ab3b40bb322d16aae4e2056fdc06e283a"
 
 [[files]]
+file = "config/lightmanscurrency-common.toml"
+hash = "a38869682340ce7a2491a6260ca6d4d4cc4c1dbd69fc3c0bebbda08ad424e0c0"
+
+[[files]]
+file = "config/lightmanscurrency/ATMData.json"
+hash = "798f00152e1dc2293f834f4fe8aca7741aae0de607e64e0c6c31d54ff74bc171"
+
+[[files]]
+file = "config/lightmanscurrency/MasterCoinList.json"
+hash = "b15100c271c22a3b83e7435c956d91403f9df72e93f1bae350172acb4e4e1f0e"
+
+[[files]]
+file = "config/lightmanscurrency/PersistentTraders.json"
+hash = "95e8f6a7f8690592aef9cd84ce5d9b10ccd245ccf8e8e8ed5701c3aff7ca9fb8"
+
+[[files]]
+file = "config/lightmanscurrency/custom_banker_trades.json"
+hash = "6e1be111ba053818a06c7e04998b84642a77139e82ca1677dce7b3a9deef1710"
+
+[[files]]
+file = "config/lightmanscurrency/custom_cashier_trades.json"
+hash = "c6fb805fe21e1765ac297443a3646887800f0a45864d5f8868f7883a4dc95e23"
+
+[[files]]
+file = "config/lightmanscurrency/custom_wandering_trader_trades.json"
+hash = "a422b3346a5b514d183afe2d8915be5ec9a0f489803c5ee505d314c635620797"
+
+[[files]]
 file = "config/limitedchunks-common.toml"
 hash = "a74ed807826f2b1778f8ba52fbdaf2bcc4398eb3e796967a03ee07968aab1f53"
 
@@ -14469,14 +14497,6 @@ file = "kubejs/server_scripts/botania/recipes.js"
 hash = "f11a3c30fea71a8c59ca549781fd96cfc08dba0c0ac5bf350537c811a7e6e3fb"
 
 [[files]]
-file = "kubejs/server_scripts/botanypottiers/fixes.js"
-hash = "11077e97ce46d221d054299b1d94fe6d001e7faaa2a7cd9a74d566ce7ce8245b"
-
-[[files]]
-file = "kubejs/server_scripts/botanypottiers/recipes.js"
-hash = "8f1666b6f7f458d07a3932a933088a50270e9bd539134d3d0685523bed417038"
-
-[[files]]
 file = "kubejs/server_scripts/createadditions/recipes.js"
 hash = "5efa59f913824ebfdd4fd6175e5319350706cd1690bb38076313ae0b34d18e20"
 
@@ -14599,10 +14619,6 @@ hash = "1300bc74d0cc1fad40261b0a888fc3c8b88594c43b9063b5f6a6b7456518ed1f"
 [[files]]
 file = "mods/BotanyPots-Forge-1.18.2-8.0.23.jar"
 hash = "582c639317e7a4bd61dfa3e9467f597f3a3998ebe8b6e55b2e48aba925786bb7"
-
-[[files]]
-file = "mods/BotanyPotsTiers-Forge-1.18.2-2.2.0.jar"
-hash = "a9db5be6f21892474ce698a2958104bca32a2432e427d194bfb51fe831786114"
 
 [[files]]
 file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
@@ -16011,6 +16027,10 @@ hash = "4913282e31cfb403f139b011926b82d35e0bc640232fd9f5ae5e8c1db3a2f8f1"
 [[files]]
 file = "world/serverconfig/curios-server.toml"
 hash = "4eb038e5184fb1afac04f1fda745fd26dd4c69134f1d40b94c6496a566eec031"
+
+[[files]]
+file = "world/serverconfig/lightmanscurrency-server.toml"
+hash = "730180daa95069ddcd2cd2aebb3f538b8e4506af299e94da72c5b495bfbfa19b"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"

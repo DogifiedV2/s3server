@@ -13374,7 +13374,7 @@ hash = "825c73de691259ba91940a7c590915138e07004c56cbc4ca047905aa8a721941"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "58406fa71c0dd43d15e9abbfc08d9c19ec101661e3a31e53244056099cb27db3"
+hash = "43ab9023871fa087c6ca1425c6f48615204d8dc096ecf34ff5f38d7374088c5f"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"

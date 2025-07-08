@@ -24,13 +24,6 @@
         "color": "yellow"
       },
       {
-        "text": " and  "
-      },
-      {
-        "text": "Tiered Botany Pots",
-        "color": "yellow"
-      },
-      {
         "text": " mod!\n\nThese pots can automate any crop in the game very easily by growing them in tiny pots."
       }
     ],    "Vault Compass": [{"text":"Unlocks the "},{"text":"Vault Compass","color":"yellow"},{"text":"!\n\nThis is the ideal tool for anyone getting lost inside the vault. While in your inventory the compass will always point to the start portal of any vault.\n\nYou can hold right mouse button while crouching to bind the compass to a custom location instead of the exit."}],

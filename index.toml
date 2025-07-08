@@ -958,7 +958,7 @@ hash = "b2994f6b86942eae6100e26f90f86ab5ef720dc9fcefb7a6c977d3eaa1df571a"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "593743dac4a448bfa0a2caab1fe886b20906ff0ec6f6502f93e8b2fd9f4c7ecf"
+hash = "ab4e43657ab70ed8b8b03bd1302567ccf4d3eacea640a0265956f0210fac4b25"
 
 [[files]]
 file = "config/integrateddynamicscompat-common.toml"
@@ -13150,7 +13150,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "aa7c4eb0cf4dd8b57e2951c94dcf5f483908da7a9c4c4599a2313b6f89e3fda9"
+hash = "17f3ea30e6b8a5ad45d676600ade8c0159320b17f0a30b91c2f4778b69557197"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"

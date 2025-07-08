@@ -15326,7 +15326,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.0-SNAPSHOT.jar"
-hash = "f49f2cf6470e30c34e33f6997300a7ea6565c820348c133d2b6a4028747cf808"
+hash = "3b7daf4c3efebca3b1481a37627a254721c3ffbbff1add84375cd3fc118497ae"
 
 [[files]]
 file = "mods/shetiphiancore-1.18-3.10.12.jar"
@@ -16011,3 +16011,23 @@ hash = "4913282e31cfb403f139b011926b82d35e0bc640232fd9f5ae5e8c1db3a2f8f1"
 [[files]]
 file = "world/serverconfig/curios-server.toml"
 hash = "4eb038e5184fb1afac04f1fda745fd26dd4c69134f1d40b94c6496a566eec031"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-default-player-config.toml"
+hash = "4d8b17b3d764474d12d8a3ea02bc7eb1f649002eb9d465b12b3decf7a8d9f012"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-expired-claim-config.toml"
+hash = "13e29595b526f4d504e866fcf8927bd9180ed38b636f3de51491cf44a353c43e"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-server-claim-config.toml"
+hash = "b26d45412926c0af7c28cb73606b22017475f440e26f25b2cb3d04052a367759"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-server.toml"
+hash = "272a095195dc95345ab3ac5eac2c907d40ced8a592d96d8e2ff34a83bbc160d7"
+
+[[files]]
+file = "world/serverconfig/openpartiesandclaims-wilderness-config.toml"
+hash = "020923fc2520c3ac0d8e558002a007ee7a87d475e6d2f6d3b9d255bdb58fc868"

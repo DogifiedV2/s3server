@@ -13549,6 +13549,10 @@ file = "config/twigs-common.toml"
 hash = "6ea357b9beb7c6fb33bb5d5e25cb55cfc147cd970fc325346491bc4b702ad7c0"
 
 [[files]]
+file = "config/vault_hunters_extra_commands.toml"
+hash = "d07174ffa4c111e031fe685215619d5021babf684ed658954097e3a5283c561e"
+
+[[files]]
 file = "config/vault_hunters_jewel_sorting.toml"
 hash = "dbf37c560d621956e3a6ee8bd9c3198abdfc863d060a70e876b329f7841b87f3"
 
@@ -15447,6 +15451,10 @@ hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 [[files]]
 file = "mods/vault_curios_enhancements-1.8.jar"
 hash = "6ea26f7f46bb559844b46ed6fbe7dbcab66b7e69c9e79c5db0def0feee9ba9f9"
+
+[[files]]
+file = "mods/vault_hunters_extra_commands-1.7.2.jar"
+hash = "bf445f0e3408007f3b788f5c808552d722887893cc30f9ed475e6809f20c43ae"
 
 [[files]]
 file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"

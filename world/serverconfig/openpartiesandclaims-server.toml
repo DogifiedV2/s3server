@@ -122,7 +122,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at a block with such an exception.
 			#Add the same block/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
-			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "waystones:warp_stone", "break$waystones:warp_stone", "minecraft:*_sign", "waystones:*", "lightmanscurrency:*", "the_vault:divine_altar"]
+			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "waystones:warp_plate", "break$waystones:warp_plate", "minecraft:*_sign", "waystones:*", "lightmanscurrency:*", "the_vault:divine_altar"]
 			#Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-DIRT35{minecraft:dirt, minecraft:grass_block, minecraft:(oak|spruce)_*}".
@@ -268,7 +268,7 @@
 			#By default, most item right-click uses are disabled in protected chunks. To make an exception for a specific item, add it to this list. This option has a higher priority than "additionalBannedItemsList".
 			#This list applies to both using an item at air and using it at a block/entity. Supports item tags. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:fishing_rod", "minecraft:ender_pearl", "minecraft:(red|green)_bed", "#minecraft:beds"]
-			itemUseProtectionExceptionList = ["minecraft:firework_rocket", "waystones:warp_stone", "sophisticatedbackpacks:(backpack|iron_backpack|gold_backpack|diamond_backpack|netherite_backpack)", "the_vault:jewel_pouch"]
+			itemUseProtectionExceptionList = ["minecraft:firework_rocket", "waystones:warp_plate", "sophisticatedbackpacks:(backpack|iron_backpack|gold_backpack|diamond_backpack|netherite_backpack)", "the_vault:jewel_pouch"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".

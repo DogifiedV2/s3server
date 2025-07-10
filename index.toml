@@ -13110,7 +13110,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "18b42a95fa65043c83a233f0135879dd2d10764c77865d3b3955a1fa13f2d29d"
+hash = "83b0599fe896522c878255fafb306f8b475b4ecd55cff289f6e56690f0e23b0e"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -16050,7 +16050,7 @@ hash = "b26d45412926c0af7c28cb73606b22017475f440e26f25b2cb3d04052a367759"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "272a095195dc95345ab3ac5eac2c907d40ced8a592d96d8e2ff34a83bbc160d7"
+hash = "f74aa574985f4699873a47b0d696d3eed8e505aff1c07406cc1c92aa82c23a92"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-wilderness-config.toml"

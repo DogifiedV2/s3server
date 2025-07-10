@@ -196,8 +196,8 @@
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false
         }

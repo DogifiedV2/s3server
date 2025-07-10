@@ -15101,6 +15101,10 @@ file = "mods/drippyloadingscreen_forge_1.6.6_MC_1.18-1.18.2.jar"
 hash = "22c0dadb55b63bf63270443a51eaa4e554518ea4783f412190af3afe983aa3e8"
 
 [[files]]
+file = "mods/dynview-1.18.2-2.8.jar"
+hash = "fab2ed3425a9293dee1116eecb388ffdd7f9ff353e15841f243e54368521d31b"
+
+[[files]]
 file = "mods/easy_piglins-1.18.2-1.0.4.jar"
 hash = "26b25f13e434ece60e319066e426291dc4ca152333da76f64028bd02df56d2b0"
 

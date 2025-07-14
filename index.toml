@@ -1750,7 +1750,7 @@ hash = "1eac7a0f5d57133d0fcd33c7ba29e6d01059e464175e92d1ea5f806d71d987a8"
 
 [[files]]
 file = "config/the_vault/ascension_forge.json"
-hash = "7d87744efb8b5b558e0a5aa5c8bb33717555cdec157cc939b4f4091a646ae2f1"
+hash = "58e5e311cf96a97886db4cd2e23c05f61990d6f9b963deaabc95ac148db2f2cb"
 
 [[files]]
 file = "config/the_vault/augment.json"
@@ -13058,7 +13058,7 @@ hash = "17a31b9745786b93778eb3fefd5155580f46e03ebf62e4b45b3b227f0df7b45f"
 
 [[files]]
 file = "config/the_vault/player_titles.json"
-hash = "f056c08d0231aea1e50848c7aa2c9209b3156db341036d40950acf83a06c7d0b"
+hash = "2e84aba835c5a24b5bfdebbeead2f143aef15c3bf6b4d20d59ceb0cbb61a428a"
 
 [[files]]
 file = "config/the_vault/points_reset.json"
@@ -15418,7 +15418,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.18.3.4607.jar"
-hash = "209e80b38b98a3c3e65475685bf481c25be95f0aa7c720ff7405da821d4a1ead"
+hash = "a925e214090640f3ac21ad62ff0fe7102f836c3c9b8b928ac2bdddbc92ebecf7"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -16039,6 +16039,10 @@ hash = "6a68d124f68464bc845130c6d85362432e6ac6101829177de5825b235edf653d"
 [[files]]
 file = "scripts/raw_smelting.zs"
 hash = "4913282e31cfb403f139b011926b82d35e0bc640232fd9f5ae5e8c1db3a2f8f1"
+
+[[files]]
+file = "scripts/vanillatweaks_scripts.zs"
+hash = "411761f45715f2621628629994813762b9ff78c445aabc99636ca24bdc6b0872"
 
 [[files]]
 file = "world/serverconfig/curios-server.toml"

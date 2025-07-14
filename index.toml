@@ -15418,7 +15418,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.18.3.4607.jar"
-hash = "a925e214090640f3ac21ad62ff0fe7102f836c3c9b8b928ac2bdddbc92ebecf7"
+hash = "4b5cfe4fe0ba27212cb48f12bdc148353afd8209eb7f62c0db052ccda6770f8e"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -15483,6 +15483,10 @@ hash = "4c40df57fa5db528f6d6981d5bd210da6eaacff751e4d7f2c552e9f9a8fc9a4f"
 [[files]]
 file = "mods/vhatcaniroll-1.8.jar"
 hash = "f8e4c83b6c5d2b4613705ca391b46f6daebc5f469f423917f15d7dda479eeb83"
+
+[[files]]
+file = "mods/vhdiscord-1.6.1.jar"
+hash = "890b5759ba5fef285eaac5365f4de3555d20b0ac80702b5fdf986cfbec331813"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.5.27.jar"

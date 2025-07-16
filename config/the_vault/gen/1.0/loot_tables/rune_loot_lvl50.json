@@ -157,8 +157,8 @@
                 "id": "the_vault:vault_gold",
                 "count": {
                   "type": "uniform",
-                  "min": 10,
-                  "max": 15
+                  "min": 3,
+                  "max": 5
                   }
               }
             },

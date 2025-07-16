@@ -2454,11 +2454,11 @@ hash = "bd573a9f5c7eb56f0f8fae16f5cc13ead85d99f046b4528939570f42e069f397"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl0.json"
-hash = "ce944464c8e5844c4eebf43d1757be5846162771e69e64da85426387a167eaee"
+hash = "2efbb4d977d70e63034b1a6f5bf9e224105ac9ef3db6df91e64ce09936814c0f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl50.json"
-hash = "24e1a51bec3ef3727fcc282d3e579bb87e3ba1cbaedd1a55f0dd51745cf2bcb7"
+hash = "1803fab0fb5037c72a206aa91749f34dc2470ba4f6afb522deb467011be24ced"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/test_table.json"

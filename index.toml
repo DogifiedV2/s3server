@@ -15785,8 +15785,8 @@ file = "mods/vaultfilters-1.21.1.jar"
 hash = "1520f33e33c32ea759b9f46f452ddbc342337f298b72646f460ac5798b62f8b9"
 
 [[files]]
-file = "mods/vaultintegrations-1.18.2-1.0.15.jar"
-hash = "81d05ca123abb510634c4f70e1fa5383a1ed0996c12cc63e1942149b39f210ef"
+file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
+hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
 [[files]]
 file = "mods/vaultoptimise-1.4.4.jar"

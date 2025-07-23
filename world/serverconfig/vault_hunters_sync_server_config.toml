@@ -1,0 +1,3 @@
+#Supported Values: `json` files
+syncConfigs = ["abilities.json", "expertises.json", "abilities_gui_styles.json" ,"researches.json", "researches_groups.json", "researches_groups_styles.json", "researches_gui_styles.json"]
+

@@ -16387,3 +16387,7 @@ hash = "6ac33da1a1ff0e9d9e9b8241f35d06daa2409bf3368df330a759b06304aa9c14"
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-wilderness-config.toml"
 hash = "020923fc2520c3ac0d8e558002a007ee7a87d475e6d2f6d3b9d255bdb58fc868"
+
+[[files]]
+file = "world/serverconfig/vault_hunters_sync_server_config.toml"
+hash = "b4ad8cdfa6a40f3b294f2add500a8993a0b169125c08689c2bab810493349986"

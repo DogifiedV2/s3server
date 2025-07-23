@@ -16194,15 +16194,15 @@ hash = "f0ac22c91075799831792da2026b403668f7cc2b568d15a3270111755b2490b3"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "39ebeccf56a347f959b51065d5672756f068e1c25a936071bed7cb3d3e01eb79"
+hash = "2598bf74d2d51c386c88657d0abd426471f100f477462ad89083b2b214b24ab6"
 
 [[files]]
 file = "scripts/Backpacks.zs"
-hash = "ed7891f2076a75dbd74367d7a8a22b3a2f071b7a493bbff29d6f35b2ebb44e13"
+hash = "75d5ea733c6846c6f2d55b9808c34833293c917380ecb73c55673d397e55468e"
 
 [[files]]
 file = "scripts/Botania.zs"
-hash = "817e1b496e51ba9c48fd4289672f590a0f918ddbc6802621a796f91c7ec7eed6"
+hash = "49674b0822ae24ab641220f990a4520c0e2ca05d7170511af81bd5e9c21e80a9"
 
 [[files]]
 file = "scripts/Botany_Pots.zs"
@@ -16230,7 +16230,7 @@ hash = "505709d1f9945c4b7ae3e94490d77ad1deb2ebf3a482b6441331efc3e5011e5d"
 
 [[files]]
 file = "scripts/Create.zs"
-hash = "65e7c8dfac2d99763706448be84cbd730e7705847ead3bb70dddfbb2c59c1d16"
+hash = "bb6659c71debb89255c5d5b18e3cb576600b0e1bd7edd029ee7f631e7a660126"
 
 [[files]]
 file = "scripts/DarkUtilities.zs"
@@ -16239,6 +16239,10 @@ hash = "0ead2f469ae9b88def94cf78cd51b35f0978df12017c69389d75c4c780613227"
 [[files]]
 file = "scripts/Drawers.zs"
 hash = "9346bd6b46b469a4b02ffb3f8a0272a796c75a8cc0ae9df7b4875627967bfee2"
+
+[[files]]
+file = "scripts/Ecologics.zs"
+hash = "37c5999dfe0a9d114e2531424c30ff30c42b3ccbd38b58ea6bc05693575237ac"
 
 [[files]]
 file = "scripts/Elevatorid.zs"
@@ -16278,7 +16282,7 @@ hash = "b9834a5ca8ce7419a68de183343e1754d71da78dccb7096c9febdbd028bd9e20"
 
 [[files]]
 file = "scripts/Quark.zs"
-hash = "9196288fe0072a51bbd567a5a9ef66b5454e477e029b4fb314ddffb8f49eaee7"
+hash = "351268e0bc26d1b00dc3f6793cb5e15d4024783b9f9d08d4b9c23f922e0d3cb9"
 
 [[files]]
 file = "scripts/RFTools.zs"
@@ -16306,7 +16310,7 @@ hash = "a5615a1753ce7e39e67a4321035c6127a5c0e560d646a622519e946490627d7c"
 
 [[files]]
 file = "scripts/Thermal.zs"
-hash = "d1804176e74f78aa3a0c2541f06b73abf6af69ac4b3811dc1bf38c31b63a1ad3"
+hash = "8cb868e1c5af4577667d1666b02cd05d368a01dcc151fe99d32395f95d2e2543"
 
 [[files]]
 file = "scripts/Torchmaster.zs"
@@ -16318,7 +16322,7 @@ hash = "3a82fa54f269c7097cabe3deaf1cd6969b797ef74ce41fa1d797bcc5929ea7f7"
 
 [[files]]
 file = "scripts/Vanilla.zs"
-hash = "ba980c87479ea1739c79a477262f8ae8e2f15c864a47181aa08ec726bb34bcaf"
+hash = "47e8d169e053cf2bc3a6ed2c0a3d96718b305224d3910d5f0163818d1ac1cdad"
 
 [[files]]
 file = "scripts/Waystones.zs"
@@ -16342,7 +16346,7 @@ hash = "60861f4d75a053d18a4b7e29fcae1b9273b665d72163f2dae93d2cb847a54a4c"
 
 [[files]]
 file = "scripts/jeiInformation.zs"
-hash = "8c606cd8614364fd02f2d16e7c65c5f06fcff39c234d74cef87d9a8179f80337"
+hash = "efd5feaa4a37c63034b8751b0fc2a1f7f712a85ed0838598ebd45ac450b3aa85"
 
 [[files]]
 file = "scripts/mushroomEvents.zs"

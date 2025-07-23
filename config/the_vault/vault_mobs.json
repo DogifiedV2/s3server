@@ -15359,6 +15359,15 @@
                 "SCALE_MAX_LEVEL": -1
             },
             {
+                "NAME": "the_vault:generic.thorns_damage",
+                "MIN": 0.2,
+                "MAX": 0.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1
+            },
+            {
                 "NAME": "the_vault:generic.crit_chance",
                 "MIN": 0.1,
                 "MAX": 0.1,

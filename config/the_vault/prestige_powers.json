@@ -191,11 +191,8 @@
 				"name": "Gift of the Petal",
 				"tiers": [
 					{
-						"type": "potion_effect_power",
-						"effectId": "minecraft:regeneration",
-						"amplifier": 0,
-						"ambient": false,
-						"visible": true,
+						"type": "trinket_power",
+						"trinketEffectId": "the_vault:velaras_petal",
 						"learnPointCost": 3,
 						"learnKnowledgeCost": 75,
 						"tier": 3,
@@ -285,8 +282,7 @@
 				"name": "Dance of the Prismatic Feather",
 				"tiers": [
 					{
-						"type": "activatable_trinket_power",
-						"trinketEffectId": "the_vault:chromatic_feather",
+						"type": "triplejump_power",
 						"learnPointCost": 4,
 						"learnKnowledgeCost": 150,
 						"tier": 4,
@@ -337,10 +333,8 @@
 				"name": "Stride of the Frog",
 				"tiers": [
 					{
-						"type": "vanilla_attribute_power",
-        				"attribute": "forge:step_height_addition",
-						"amount": 1.0,
-						"operation": "ADDITION",
+						"type": "activatable_trinket_power",
+						"trinketEffectId": "the_vault:high_heels",
 						"learnPointCost": 4,
 						"learnKnowledgeCost": 150,
 						"tier": 4,

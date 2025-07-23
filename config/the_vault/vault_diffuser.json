@@ -106,6 +106,7 @@
     "the_vault:hardened_chest_scroll": 128,
     "the_vault:flesh_chest_scroll": 128,
     "the_vault:enigma_chest_scroll": 1024,
+    "the_vault:unique_crate_scroll": 768,
     "the_vault:respec_flask": 85,
     "the_vault:vault_catalyst_infused": 450,
     "the_vault:mystical_powder": 342,

@@ -2719,7 +2719,7 @@
     {
       "type": "mining",
       "id": "temporal_shards",
-      "name": "Pylons & Temporal Shards",
+      "name": "Pylons & Temporal Relics",
       "descriptionData": {
         "description": [
           {
@@ -2739,7 +2739,7 @@
             "color": "$text"
           },
           {
-            "text": "Temporal Shard",
+            "text": "Temporal Relic",
             "color": "$qhighlight"
           },
           {
@@ -2759,7 +2759,7 @@
             "color": "$text"
           },
           {
-            "text": "Break a Pylon to have a chance of getting a Temporal Shard",
+            "text": "Break a Pylon to have a chance of getting a Temporal Relic",
             "color": "$heal"
           }
         ]        

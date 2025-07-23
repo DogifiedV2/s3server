@@ -1443,7 +1443,7 @@
         ],
         "vaultExp": 0
       }
-    },  
+    },
     {
       "type": "forge_gear",
       "id": "gear_forge",
@@ -1557,7 +1557,7 @@
       "icon": "the_vault:gui/quests/recycler",
       "targetId": "the_vault:vault_recycler",
       "targetProgress": 1.0,
-      "unlockedBy": "wild_focus",
+      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -1639,12 +1639,12 @@
             "color": "$heal"
           }
         ]
-        
+
       },
       "icon": "the_vault:gui/quests/alchemytable",
       "targetId": "the_vault:alchemy_table",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_recycler",
+      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -1679,7 +1679,7 @@
       "icon": "the_vault:gui/quests/ten",
       "targetId": "the_vault:10",
       "targetProgress": 1.0,
-      "unlockedBy": "alchemystation",
+      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -1703,7 +1703,7 @@
           "text": "\n\nAcquire a blank seal",
           "color": "$heal"
         }
-        
+
         ]
       },
       "icon": "the_vault:gui/quests/empty_seal",
@@ -2030,7 +2030,7 @@
             "color": "$text"
           },
           {
-            "text": "\n\nIn Hunt the Runes your objective is to find runes and apply them to a rune boss pillar. Each rune can have a different modifier, and a different reward item. Once you have inserted the correct number of runes, the room will close and the boss will spawn with the modifiers you've chosen.", 
+            "text": "\n\nIn Hunt the Runes your objective is to find runes and apply them to a rune boss pillar. Each rune can have a different modifier, and a different reward item. Once you have inserted the correct number of runes, the room will close and the boss will spawn with the modifiers you've chosen.",
             "color": "$text"
           },
           {
@@ -2441,14 +2441,6 @@
               "color": "$text"
             },
             {
-              "text": "Seals",
-              "color": "$titleLine"
-            },
-            {
-              "text": " sets the objective of the crystal to that of the seal, allowing you to chose how to complete the vault, they are craftable.\n\n",
-              "color": "$text"
-            },
-            {
               "text": "Augments",
               "color": "$titleLine"
             },
@@ -2523,7 +2515,7 @@
             {
               "text": "!",
               "color": "$text"
-            },          
+            },
         {
           "text": "\n\nCraft a Crystal Workbench",
           "color": "$heal"
@@ -2536,14 +2528,6 @@
       "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
-            {
-              "item": "the_vault:crystal_seal_scout",
-              "amount": 1
-            },
-            {
-              "item": "the_vault:crystal_seal_sage",
-              "amount": 1
-            },
             {
               "item": "the_vault:augment",
               "nbt": "{\"theme\":\"the_vault:classic_vault_cave_geode\"}",
@@ -2667,7 +2651,7 @@
               "text": "Craft a Catalyst Infusion Table",
               "color": "$heal"
             }
-          
+
         ]
       },
       "icon": "the_vault:gui/quests/catalyst",
@@ -2778,7 +2762,7 @@
             "text": "Craft an Inscription Table",
             "color": "$heal"
           }
-        ]        
+        ]
       },
       "icon": "the_vault:gui/quests/inscriptiontable",
       "targetId": "the_vault:inscription_table",
@@ -2797,7 +2781,7 @@
     {
       "type": "mining",
       "id": "temporal_shards",
-      "name": "Pylons & Temporal Shards",
+      "name": "Pylons & Temporal Relics",
       "descriptionData": {
         "description": [
           {
@@ -2817,7 +2801,7 @@
             "color": "$text"
           },
           {
-            "text": "Temporal Shard",
+            "text": "Temporal Relic",
             "color": "$qhighlight"
           },
           {
@@ -2837,10 +2821,10 @@
             "color": "$text"
           },
           {
-            "text": "Break a Pylon to have a chance of getting a Temporal Shard",
+            "text": "Break a Pylon to have a chance of getting a Temporal Relic",
             "color": "$heal"
           }
-        ]        
+        ]
       },
       "icon": "the_vault:gui/quests/temporal_shard",
       "targetId": "the_vault:pylon",
@@ -2944,7 +2928,7 @@
     {
       "type": "collection",
       "id": "spirit_extractor",
-      "name": "The Spirit Extractor",
+      "name": "Revival",
       "descriptionData": {
         "description": [
           {
@@ -3217,7 +3201,7 @@
             "text": ".\n\n",
             "color": "$text"
           }
-        ]        
+        ]
       },
       "icon": "the_vault:gui/quests/vaultrock",
       "targetId": "the_vault:none",
@@ -3271,7 +3255,7 @@
             "text": "Craft a Warden's Vault Rock",
             "color": "$heal"
           }
-        ]        
+        ]
       },
       "icon": "the_vault:gui/quests/wardenrock",
       "targetId": "the_vault:wardens_pearl",
@@ -3326,7 +3310,7 @@
             "color": "$heal"
           }
         ]
-        
+
       },
       "icon": "the_vault:gui/quests/plunderrock",
       "targetId": "the_vault:plunderer_pearl",
@@ -3620,7 +3604,7 @@
             "color": "$heal"
           }
         ]
-        
+
       },
       "icon": "the_vault:gui/quests/archives",
       "targetId": "the_vault:alchemy_archive",
@@ -4026,7 +4010,7 @@
             "color": "$text"
           },
           {
-            "text": "curse your vault",
+            "text": "revoke a reputation point",
             "color": "$qhighlight"
           },
           {
@@ -4192,7 +4176,7 @@
     {
       "type": "collection",
       "id": "obtain_deck",
-      "name": "Obtain a card deck",
+      "name": "Obtain a Card Deck",
       "descriptionData": {
         "description": [
           {
@@ -4243,7 +4227,7 @@
     {
       "type": "collection",
       "id": "obtain_juicer",
-      "name": "Upgrading cards",
+      "name": "Upgrading Cards",
       "descriptionData": {
         "description": [
           {
@@ -4639,7 +4623,7 @@
             "color": "$titleLine"
           },
           {
-            "text": " is determined by the level of your companion—it lasts 1 minute at level 1, 3 minutes at level 3, etc. The ",
+            "text": " is determined by the level of your companion, it lasts 1 minute at level 1, 3 minutes at level 3, etc. The ",
             "color": "$text"
           },
           {

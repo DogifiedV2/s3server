@@ -5,9 +5,9 @@
   "hatchingTime": 20,
   "cooldownRange": [
     20,
-    40
+    60
   ],
-  "cooldownMultiplier": 1.0,
+  "cooldownMultiplier": 0.2,
   "levels": [
     {
       "level": 1,
@@ -78,7 +78,7 @@
     "papillon": 1.0
   },
   "SERIES_WEIGHTS": {
-    "PET": 2.0,
+    "PET": 4.0,
     "LEGEND": 2.0
   }
 }

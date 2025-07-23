@@ -2175,6 +2175,26 @@
                 "weight": 10
               },
               {
+                "value": "the_vault:coin_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:gilded",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:living",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:ornate",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:wooden",
+                "weight": 10
+              },
+              {
                 "value": "the_vault:plentiful",
                 "weight": 10
               },
@@ -2183,8 +2203,8 @@
                 "weight": 10
               },
               {
-                "value": "the_vault:xp_gain",
-                "weight": 4
+                "value": "the_vault:phoenix",
+                "weight": 10
               }
             ]
           }

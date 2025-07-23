@@ -16382,11 +16382,11 @@ hash = "13e29595b526f4d504e866fcf8927bd9180ed38b636f3de51491cf44a353c43e"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server-claim-config.toml"
-hash = "b26d45412926c0af7c28cb73606b22017475f440e26f25b2cb3d04052a367759"
+hash = "f4351330f3c5efe2f49ad3056b96d4a66612d44e213954f605e23a1e8cc84819"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-server.toml"
-hash = "51bc2c5a42c93b1e5d5b3f4c702a6ce4faaf220f2e5aa4dd0b059384e0cf38c4"
+hash = "6ac33da1a1ff0e9d9e9b8241f35d06daa2409bf3368df330a759b06304aa9c14"
 
 [[files]]
 file = "world/serverconfig/openpartiesandclaims-wilderness-config.toml"

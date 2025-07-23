@@ -15725,10 +15725,6 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.18.3.4607.jar"
-hash = "d1b27b6c014e839e23261c5c6084b0a4d0f8e22c0de64c70b8558f8ca74ae069"
-
-[[files]]
 file = "mods/the_vault-1.18.2-3.19.0.jar"
 hash = "6a46cb378201ffba735397a828797f01458cc12f4b8f40281a2d4b8e8b6ad295"
 

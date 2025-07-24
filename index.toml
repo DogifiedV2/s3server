@@ -1762,7 +1762,7 @@ hash = "9ef0d39aa5975187e97338d1939d31a95bba442a27df1b681c62ac82b91b6eb2"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "ef28350f68a693d744f1204f06e7560964d05bfa350cc947b0ff59fca598847f"
+hash = "352e41613a6af9a726e6963db688d2989339e97675e99afc00a3c81177c97d96"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -1850,7 +1850,7 @@ hash = "88ac67cbf399f87c2c4bcf84c22f2273c0ef3cc2f51f1e0f37f38af58af9b1c9"
 
 [[files]]
 file = "config/the_vault/champions.json"
-hash = "6d999b96f7354d28be3ba8150ca79d99cff839503c2c63d80336763e4fc2aeca"
+hash = "890b464f6929c4db92fafe19743b1c29c8bce1b0f17bb0d2e1be6f04b4942d63"
 
 [[files]]
 file = "config/the_vault/charm.json"
@@ -2094,11 +2094,11 @@ hash = "b93e682e39bde95ffb76e3e3c282b876f13682af7c2de06625f7815d09b12c17"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
-hash = "538288492eb3083c3268073d2f9ab7b1746f39d786c77319c21c5716fd648c5f"
+hash = "868edc70048d80fba49ca7c29e420dc71483684993f129296be8ee69bc398f4c"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
-hash = "817d08f2ff33d1a1d62bad7ab05b4d379a1d990ce60bd86bf8a82c7603bc33a8"
+hash = "b44db790554dc87c683af350a01d4afe54d7883ca63f26ecb60332259c44ba35"
 
 [[files]]
 file = "config/the_vault/gear_workbench/boots.json"
@@ -2146,7 +2146,7 @@ hash = "ec52c937e57c347d5ecfa86c53a4fe5a6cd40b7b5810f28db82889511b47307a"
 
 [[files]]
 file = "config/the_vault/gear_workbench/sword.json"
-hash = "4bbf9b510bd603317013e6badd1835e2ac1ba71261ac6e58850c8d1f8073bdfc"
+hash = "86b72bf06b7f138bdd12a1df963e5f2e7e116dd7ef48ff8897a1f5911e543961"
 
 [[files]]
 file = "config/the_vault/gear_workbench/wand.json"
@@ -13334,15 +13334,15 @@ hash = "709de80600a17f7337941bbc7ad1315a07052e087a04617edfa26268131dd28a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "6243eef4eda66221fbf39a82c98dba9de0a5a6d9cf6e144f87623c815a3e3bcc"
+hash = "0716bdd5ea05a774102f52f8c03f1107667d580a1c83811df3f0888c96a2f896"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
-hash = "4bf5b1e4c10571d8a2409247b974eec5021a80d14acdca4403dd33abe728e42a"
+hash = "79e17c127d47925236ec8bbb5c11cfe6774f749d0369544d0e5366ef68b9b7c2"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "116f1c45fb0daf5216b081156a7e47b3974a5a318ac0b81a75e4305c49e89fbd"
+hash = "28542850f4f9ff1c5a038a5ce9613472978a9923fd75093e93abbb4b727d13b6"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -13534,7 +13534,7 @@ hash = "13d47d8c3a8da0b7cb2b8b685d7fafa875e78d9717d1c12a8bfa8adad507f815"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "687f8be7682c690795afafe21eb11f0ca20fda9db9f92c5286a2a33e6f73bac6"
+hash = "98ff08ebeeda9e856fea6ee7ad776bcde2e26c2b8a528b9a260156ae3b762d33"
 
 [[files]]
 file = "config/the_vault/trinket_combinations.json"
@@ -13554,7 +13554,7 @@ hash = "171293f461823f04aa4c7a063881600dcbb8d38e02ca2d133c205b8e9a25303c"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "bd8232b2f3548478f4728c720d1f03997378931b926cc700f8194592a737be26"
+hash = "77e6d91ed75052bbba70962eb1b2a16d14436ec244add2c03d0f05f2eb529060"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -15725,8 +15725,8 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.19.0.jar"
-hash = "9072bfa569429db842676a417e4ae3a3c2677e5dd5516b942c34011d66cc9f05"
+file = "mods/the_vault-1.18.2-3.19.1.jar"
+hash = "24c45428bb61c1d3dc4837d0c324b5827fc56354dfdcf92244a0bdde4555ec14"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

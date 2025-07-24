@@ -13426,7 +13426,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "be08d9cbc1c05d50e229572cc0a4e50cbccff18c4571ac0bc5a30a38eb2c300d"
+hash = "47d5e4a4bb481b737b7a4cc28dca91b9a0564d03808bcd44da78ff3363df3116"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -15726,7 +15726,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.0.jar"
-hash = "6a46cb378201ffba735397a828797f01458cc12f4b8f40281a2d4b8e8b6ad295"
+hash = "50fb26bebc4b4884f7e95805201d69cb707da494d9dd2bda8093d6813907543d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

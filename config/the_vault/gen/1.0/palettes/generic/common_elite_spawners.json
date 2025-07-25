@@ -18,7 +18,7 @@
         {
           "level": 50,
           "type": "bernoulli_weighted_target",
-          "probability": 0.05,
+          "probability": 0.01,
           "target": "minecraft:diamond_block",
           "success": {
             "the_vault:companion_nest": 10

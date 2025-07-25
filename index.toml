@@ -3042,7 +3042,7 @@ hash = "41a2a79bbe41f68bb75954edc51d22986c648527ca052fd67a74dd0a8efd1427"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/common_elite_spawners.json"
-hash = "fc05637d1422537080a5c023d14d66be4743f3d829f88fb08edccbe22f5ebb13"
+hash = "cb246767c3c6eacc043fbbd441ab753054d1a4d842a1243b6f9eea0c535e52f9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_discoverable_placeholder.json"
@@ -15726,7 +15726,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.1.jar"
-hash = "8ec51f4e24d61a35c677fc5da281a7c4a6a631c14dbc6dfafd4772c7487bdb91"
+hash = "147a0e3e33cd8dddad6ab67fc5f7f09ea603fc7ca156baa0cea4e8e493c98895"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

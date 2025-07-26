@@ -13334,7 +13334,7 @@ hash = "709de80600a17f7337941bbc7ad1315a07052e087a04617edfa26268131dd28a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "0716bdd5ea05a774102f52f8c03f1107667d580a1c83811df3f0888c96a2f896"
+hash = "7745a6b53786de39cc0449982318f1ddd8e4e10218b1ec2a927240a87c8fc767"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"

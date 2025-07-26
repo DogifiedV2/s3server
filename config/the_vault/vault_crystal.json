@@ -1181,7 +1181,7 @@
       {
         "level": 40,
         "pool": [
-         
+
           {
             "value": {
               "type": "scavenger",
@@ -1774,10 +1774,6 @@
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
         },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
-        },
         "modifiers": {
           "type": "default",
           "random_modifiers": false
@@ -1799,10 +1795,6 @@
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
         },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
-        },
         "modifiers": {
           "type": "default",
           "random_modifiers": false
@@ -1823,10 +1815,6 @@
           "tunnel_span": 1,
           "half_length": 99,
           "rotation": "CLOCKWISE_90"
-        },
-        "theme": {
-          "type": "value",
-          "id": "the_vault:classic_vault_chaos_cake"
         },
         "modifiers": {
           "type": "default",

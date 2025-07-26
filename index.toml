@@ -2262,7 +2262,7 @@ hash = "84e2a8340a1aacd5f7db323bcf1ef6ef1057e8946d86efbafbbab932b8bda397"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cake_crate.json"
-hash = "5a19e7925582feef8de9d52a3f6d88b5d3d1148a7bf5f83639d686709fdd30c4"
+hash = "c2bf4d3fcd7822c6702d08bda5139a1151cdebcf3c953a779fefcf1360b0a80e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
@@ -13562,7 +13562,7 @@ hash = "1abfa8a424603504da3743566ddad41cc9df2f7c26f1a0ad90850ab0372771e2"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "64ee1a282016538e53f2670158a1be2690250c5b52dc03005b366f4082d273f2"
+hash = "dce0d61e7c509c73e562ba9ac9daf600d4559cbf4d617b5104e2f9d5f4cfed52"
 
 [[files]]
 file = "config/the_vault/vault_altar/greed_vault_altar_ingredients.json"
@@ -13610,7 +13610,7 @@ hash = "edfab8945b2dbad5bcbb8b33829e7c91c9beedcff5f1c4ec9ce17aa83a87476c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "3e858b302d46ce1dd05cb21d1d12bd4bc1ecfb6412bd3b9125e978a21189dc7c"
+hash = "6111acde31244985803012a96cc71e70da85e23447aa4481a02ab9b9b7afe11c"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -13682,7 +13682,7 @@ hash = "98b051aef7bca2f13809520509093ea6e5a7cffe9a543925c8d0c31b8cf7de44"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "c04d46f6cfaa8a6adf8de20eb1044a9f4647feb06cf152059c0ee834124cd13e"
+hash = "02765abc1747ee411965ba06fb04e4fe9af1e7196beed8346117ed74baba9706"
 
 [[files]]
 file = "config/the_vault/vault_ore.json"

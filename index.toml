@@ -15213,6 +15213,10 @@ file = "mods/Terralith_v2.2.3.jar"
 hash = "22b72a4bee7ff9970410d29a10f8cf1a90ffbd25087ceaf408f66bab9622ad1d"
 
 [[files]]
+file = "mods/VHDeBlockCache-1.0.0.jar"
+hash = "93aa5faa8c54c8927f4864d14ded4e4392803a2a60c2910209223632fa2b4b22"
+
+[[files]]
 file = "mods/VaultersParadiseServer-2.0.0-all.jar"
 hash = "f951abb68487e6ef74cc7636dbee66dda0855eeadf6996fb9f12f7aa8b3afa94"
 
@@ -15725,8 +15729,8 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.19.3.jar"
-hash = "91d1c0e2eb88fd7deebfc8f4b47ef3130a623a5fa7e28efbbbfbbde5ba12a56e"
+file = "mods/the_vault-1.18.2-3.19.4.jar"
+hash = "b236f3776b3167078b00084d120cea5ca200592c2da8321263db4fa887e16a2f"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -15787,6 +15791,10 @@ hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 [[files]]
 file = "mods/vaultoptimise-1.4.4.jar"
 hash = "4c40df57fa5db528f6d6981d5bd210da6eaacff751e4d7f2c552e9f9a8fc9a4f"
+
+[[files]]
+file = "mods/vhdiscord-1.7.0.jar"
+hash = "420447bcbda46ecad0b196122f91a37d14e92bb8dfdcdfe2710c97157d808ef1"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.5.27.jar"
@@ -16355,6 +16363,10 @@ hash = "411761f45715f2621628629994813762b9ff78c445aabc99636ca24bdc6b0872"
 [[files]]
 file = "world/serverconfig/curios-server.toml"
 hash = "4eb038e5184fb1afac04f1fda745fd26dd4c69134f1d40b94c6496a566eec031"
+
+[[files]]
+file = "world/serverconfig/fluxnetworks-server.toml"
+hash = "225440a844b5d5cb7f66a1b0f7b3e4935c0952a23d046becc0d577f635c6ccd9"
 
 [[files]]
 file = "world/serverconfig/lightmanscurrency-server.toml"

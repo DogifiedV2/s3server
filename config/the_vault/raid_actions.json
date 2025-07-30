@@ -144,10 +144,10 @@
       "item": {
         "id": "the_vault:helmet",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -160,10 +160,10 @@
       "item": {
         "id": "the_vault:chestplate",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -176,10 +176,10 @@
       "item": {
         "id": "the_vault:leggings",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -192,10 +192,10 @@
       "item": {
         "id": "the_vault:boots",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -208,10 +208,10 @@
       "item": {
         "id": "the_vault:sword",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -224,10 +224,10 @@
       "item": {
         "id": "the_vault:axe",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -240,10 +240,10 @@
       "item": {
         "id": "the_vault:shield",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -256,10 +256,10 @@
       "item": {
         "id": "the_vault:wand",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -272,10 +272,10 @@
       "item": {
         "id": "the_vault:focus",
         "nbt": {
-                  "the_vault:is_legendary": "true",
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
+          "the_vault:is_legendary": "true",
+          "the_vault:gear_roll_type_pool": "gear_treasure"
 
-                },
+        },
         "count": 1
       },
       "color1": "0xFFffb400",
@@ -707,70 +707,70 @@
     },
     "gilded_chest": {
       "type": "tile_reward",
-	    "name": "Gilded Chests",
+      "name": "Gilded Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=gilded_chest,facing=up]{Hidden:1b}",
       "count": 7
     },
     "gilded_chest_big": {
       "type": "tile_reward",
-	    "name": "Gilded Chests",
+      "name": "Gilded Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=gilded_chest,facing=up]{Hidden:1b}",
       "count": 10
     },
     "ornate_chest": {
       "type": "tile_reward",
-	    "name": "Ornate Chests",
+      "name": "Ornate Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=ornate_chest,facing=up]{Hidden:1b}",
       "count": 7
     },
     "ornate_chest_big": {
       "type": "tile_reward",
-	    "name": "Ornate Chests",
+      "name": "Ornate Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=ornate_chest,facing=up]{Hidden:1b}",
       "count": 10
     },
     "coin_pile": {
       "type": "tile_reward",
-	    "name": "Coin Piles",
+      "name": "Coin Piles",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=coin_stacks,facing=up]{Hidden:1b}",
       "count": 8
     },
     "coin_pile_big": {
       "type": "tile_reward",
-	    "name": "Coin Piles",
+      "name": "Coin Piles",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=coin_stacks,facing=up]{Hidden:1b}",
       "count": 12
     },
     "living_chest": {
       "type": "tile_reward",
-	    "name": "Living Chests",
+      "name": "Living Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=living_chest,facing=up]{Hidden:1b}",
       "count": 7
     },
     "living_chest_big": {
       "type": "tile_reward",
-	    "name": "Living Chests",
+      "name": "Living Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=living_chest,facing=up]{Hidden:1b}",
       "count": 10
     },
     "wooden_chest": {
       "type": "tile_reward",
-	    "name": "Wooden Chests",
+      "name": "Wooden Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=wooden_chest,facing=up]{Hidden:1b}",
       "count": 12
     },
     "wooden_chest_big": {
       "type": "tile_reward",
-	    "name": "Wooden Chests",
+      "name": "Wooden Chests",
       "textColor": "0xFFfff0a9",
       "tile": "the_vault:placeholder[type=wooden_chest,facing=up]{Hidden:1b}",
       "count": 16
@@ -1048,7 +1048,7 @@
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
           { "value": "raid_rock_infinite", "weight": 40 }
-          ]
+        ]
         }
       ]
     },
@@ -1076,7 +1076,7 @@
           { "value": "rare_focus", "weight": 40 },
           { "value": "rare_wand", "weight": 40 },
           { "value": "raid_rock", "weight": 180 }
-          ]
+        ]
         }
       ]
     },
@@ -1131,7 +1131,7 @@
           { "value": "iskallibur", "weight": 4 },
           { "value": "annmari", "weight": 4 },
           { "value": "ivy", "weight": 4 }
-          ]
+        ]
         }
       ]
     },
@@ -1152,9 +1152,9 @@
           { "value": "crashguards", "weight": 4 },
           { "value": "chainlash", "weight": 4 },
           { "value": "pacifist_sandals", "weight": 4 },
-          { "value": "kaleidoscope", "weight": 8 },
-          { "value": "baguette", "weight": 20 }
-          ]
+          { "value": "kaleidoscope", "weight": 4 },
+          { "value": "baguette", "weight": 4 }
+        ]
         }
       ]
     }

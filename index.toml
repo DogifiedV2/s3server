@@ -2082,7 +2082,7 @@ hash = "5a7d0ea374ca3450b7f15af2bc9cd0c1560512b4acdbae53ad696bf9c4bf0c91"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "1a01337441eabdec18f896f4864687b4996b9bc0dcde5f2030099b82b27a5e90"
+hash = "8dc55f7a918b90ea404cf27da63d2e0318b381d6c5f77941b01f62fe80f779f0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -13342,7 +13342,7 @@ hash = "79e17c127d47925236ec8bbb5c11cfe6774f749d0369544d0e5366ef68b9b7c2"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "28542850f4f9ff1c5a038a5ce9613472978a9923fd75093e93abbb4b727d13b6"
+hash = "65089597af91a81b9b25387333eae0cf42b3fb9e92e1704c5a126c2d83e9e8fe"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -13554,7 +13554,7 @@ hash = "171293f461823f04aa4c7a063881600dcbb8d38e02ca2d133c205b8e9a25303c"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "77e6d91ed75052bbba70962eb1b2a16d14436ec244add2c03d0f05f2eb529060"
+hash = "7c58a3f6cdc9dae3c2f1751dac0ceb0fad36e4bded2f037b25309f01ac6d4819"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"

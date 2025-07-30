@@ -13,7 +13,7 @@
           "the_vault:base_lucky_hit_chance"
         ],
         "PREFIX": [
-          
+
         ],
         "SUFFIX": [
           "the_vault:u_item_rarity",
@@ -83,7 +83,7 @@
         ],
         "PREFIX": [
           "the_vault:mod_ap"
-          
+
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen",
@@ -151,7 +151,7 @@
         ],
         "PREFIX": [
           "the_vault:mod_attack_damage"
-          
+
         ],
         "SUFFIX": [
           "the_vault:u_relentless_strike",
@@ -174,7 +174,7 @@
         ],
         "PREFIX": [
           "the_vault:mod_attack_speed_percent"
-          
+
         ],
         "SUFFIX": [
           "the_vault:u_third_attack"
@@ -286,7 +286,7 @@
         "PREFIX": [
           "the_vault:mod_attack_damage",
           "the_vault:mod_damage_baby"
-          
+
         ],
         "SUFFIX": [
           "the_vault:u_on_hit_aoe"
@@ -307,7 +307,7 @@
           "the_vault:u_living"
         ],
         "IMPLICIT": [
-          
+
           "the_vault:base_offhand_mana_additive"
         ],
         "PREFIX": [
@@ -365,7 +365,7 @@
         "SUFFIX": [
           "the_vault:heal_cooldown",
           "the_vault:u_phoenix"
-          
+
         ]
       },
       "modifierTags": [],
@@ -388,7 +388,7 @@
           "the_vault:unique_storm_arrow_level",
           "the_vault:storm_aoe_reduce",
           "the_vault:storm_cooldown"
-          
+
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen"
@@ -411,7 +411,7 @@
           "the_vault:base_ap"
         ],
         "PREFIX": [
-          
+
           "the_vault:mod_ability_increase",
           "the_vault:mod_added_ability_level_fireball"
         ],
@@ -419,7 +419,7 @@
           "the_vault:fireball_aoe_increase",
           "the_vault:mod_cooldown_reduction",
           "the_vault:unique_area_of_effect"
-          
+
         ]
       },
       "modifierTags": [],
@@ -437,14 +437,14 @@
           "the_vault:base_armor"
         ],
         "PREFIX": [
-          
+
           "the_vault:mod_jav_scatter",
           "the_vault:mod_damage_increase"
         ],
         "SUFFIX": [
           "the_vault:mod_cooldown_reduction",
           "the_vault:mod_mana_regen"
-          
+
         ]
       },
       "modifierTags": [],
@@ -462,14 +462,14 @@
           "the_vault:base_armor"
         ],
         "PREFIX": [
-          
+
           "the_vault:u_movement",
           "the_vault:u_knockback_resistance"
         ],
         "SUFFIX": [
           "the_vault:u_effect_avoidance",
           "the_vault:mod_mana_regen"
-          
+
         ]
       },
       "modifierTags": [],
@@ -489,7 +489,7 @@
         ],
         "SUFFIX": [
           "the_vault:u_saturation"
-          
+
         ]
       },
       "modifierTags": [],
@@ -509,8 +509,8 @@
         "PREFIX": [
         ],
         "SUFFIX": [
-          
-          
+
+
         ]
       },
       "modifierTags": [],
@@ -534,7 +534,7 @@
         "SUFFIX": [
           "the_vault:mod_attack_range",
           "the_vault:mod_attack_speed_percent"
-          
+
         ]
       },
       "modifierTags": [],
@@ -556,7 +556,7 @@
         ],
         "SUFFIX": [
           "the_vault:unique_entropic_poison"
-          
+
         ]
       },
       "modifierTags": [],
@@ -578,7 +578,7 @@
         ],
         "SUFFIX": [
           "the_vault:u_entropic_bind"
-          
+
         ]
       },
       "modifierTags": [],
@@ -603,7 +603,7 @@
         "SUFFIX": [
           "the_vault:u_shocking_hit",
           "the_vault:u_stun_hit"
-          
+
         ]
       },
       "modifierTags": [],

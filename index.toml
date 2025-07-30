@@ -9750,7 +9750,7 @@ hash = "240bab02e1bd5621eca3de23358521ec28a3c80eeafb00d28d4666603985e59f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
-hash = "024d49c1e71133add931e09956b4bc437ca02d7e25ad9b046834a44eb4cc7305"
+hash = "fdea3eb4f75069d4f06239b02a3744eb2fe50f4ec9ef334c949ba9046788294b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1_old.nbt"

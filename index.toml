@@ -2534,11 +2534,11 @@ hash = "66d6c80d9e1e92fa7f36da12ec1e44170bc4cdfc3273c7bf943e4adf305e8c19"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_0.json"
-hash = "8127c2258f73aefa534cd8c69c5734ede1873e421192448add3bcd2ea8733230"
+hash = "8afb522e5e7119b5551a22c4dcd33a4b33e3a8cb5f3068f466e721aeff3f92e8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "8127c2258f73aefa534cd8c69c5734ede1873e421192448add3bcd2ea8733230"
+hash = "8afb522e5e7119b5551a22c4dcd33a4b33e3a8cb5f3068f466e721aeff3f92e8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"

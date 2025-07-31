@@ -19809,7 +19809,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 25.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19821,7 +19821,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 28.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19833,7 +19833,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 31.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19845,7 +19845,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 34.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19857,7 +19857,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 37.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19869,7 +19869,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 40.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19881,7 +19881,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 43.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19893,7 +19893,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 46.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19905,7 +19905,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 49.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19917,7 +19917,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 52.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19929,7 +19929,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 55.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19941,7 +19941,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 58.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19953,7 +19953,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 61.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19965,7 +19965,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 64.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19977,7 +19977,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 67.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -19989,7 +19989,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 70.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20001,7 +20001,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 73.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20013,7 +20013,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 76.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20025,7 +20025,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 79.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20037,7 +20037,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 82.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20049,7 +20049,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 85.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20061,7 +20061,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 88.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20073,7 +20073,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 91.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20085,7 +20085,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 94.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20097,7 +20097,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 97.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20109,7 +20109,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 100.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20121,7 +20121,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 103.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20133,7 +20133,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 106.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20145,7 +20145,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 109.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,
@@ -20157,7 +20157,7 @@
               {
                 "type": "fireball_volley",
                 "manaCost": 112.0,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 400,
                 "unlockLevel": 0,

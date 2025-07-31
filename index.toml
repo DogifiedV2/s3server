@@ -1670,7 +1670,7 @@ hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "82eedceff1044c13f72f4ca4bdb5085f99cd50ef03a3a6314711cbbff8be6771"
+hash = "2cfe15653d58fa80d397bda28fcc4bf3166d27fd4c0e88185cce755b99fac4ab"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -1822,7 +1822,7 @@ hash = "24ed2c5e759b908e3006366c4069445f8ad6e8db55e15dc52ad545fa6d5f94ee"
 
 [[files]]
 file = "config/the_vault/card/decks.json"
-hash = "7665d639e40b3abbb6494ece20d45addc680f41d997363638e69fa8fc478c3f6"
+hash = "deced673eeed84cffaec88bbd579a72ab3cc36d9d0e8b31989cf4af29efaa83d"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
@@ -2006,7 +2006,7 @@ hash = "8bd40bd908e790fffe3be5ecd51d96895f7e6f05ca61a38a0378ee8464d14e42"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "dc3531e99c01bb7b9d11c03b2259f3620818d953858d7b10e94978e8948f1ab0"
+hash = "58e41e5e8a533d0e657b0adab2059efc0d0a5270c9ea625b0646ed79d425d1df"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -2018,11 +2018,11 @@ hash = "292363b14bf4503b5044bffd22183133d9d00e0a995af0d1ad0d4962349245f9"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
-hash = "d262fc681e33b8634f1247a70b29be831e87709133a831e697b2174aad6e1659"
+hash = "281375580e9cccb9920e924b54578d855bfeb0aa0a4c7d4b357ae40191bf3d50"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
-hash = "b4af867c3e4baf0b3378b2e374abb57d71768cbde38bec22bb060bca01dede48"
+hash = "c930c4deefb251098783793227d69de0f901053ef0f665e597f0043ce2bbaacc"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/bottle.json"
@@ -2030,7 +2030,7 @@ hash = "445a6c9fe66900da360ee863ea0b751ee0c908fb029cc3b169f976ffb9c3398a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/chestplate.json"
-hash = "f682553e5c929c3b74b2699c36124592686aeba77441ed3494bcd9af59f12f39"
+hash = "a33d967aab7dc440ca66f5c9cd4d07fecf8281e2a145043642ec07cd0dfa9c04"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/drink.json"
@@ -2038,11 +2038,11 @@ hash = "2eceb307c3dbcb2e845a6c6c12affe572f173ca178b50060f64a782ccc9900ac"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
-hash = "402c2b568b426b7eee5071b674289dcf24bdf29a64393e9b940b60934e8ad147"
+hash = "19184ab73ab0a1b62361544ea91c405220f834b78f64310f0824070b3fe9a8e7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "7c92ca25003fee018cae54c8605dcd7b805be730fa09c10c831105691447b589"
+hash = "dac585064da3898059d039d4321ec5a87c2047d54d486eec709d5beff0a45bee"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -2066,23 +2066,23 @@ hash = "4998a2aa280e52ebec28233dbfb22e02829ac1221b7cde2b45b20339921792d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
-hash = "b3053a2b1477af0d23ce572a3fe60fda9ff58b0530a12216336eed0d7911dc6d"
+hash = "90d8d180ae641cfa4baddc3b2707b9987433f972839016d2078ec747d2217e14"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "cc67144bfc8df57912336f1f6a7ecd59166a144183e9266d23a6b775ef9f50e8"
+hash = "f23dd314cbe37e6dcb2aa7e5df7c8f7d02df07d68ef39b0523d0f11e94c8472b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
-hash = "c50c04fb8dc75afd5e61defe50f209d710cf0a126ecde4a64dfb4c03c0eae2b6"
+hash = "6c0a5c4f0183019dc8661f27e0ec088267dec6f8fbed44b7f1af075d2c9b338b"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "5a7d0ea374ca3450b7f15af2bc9cd0c1560512b4acdbae53ad696bf9c4bf0c91"
+hash = "24f7f2c4bc93de12203ff14da85476e041e2725fca188574d937ad0b62f80426"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "8dc55f7a918b90ea404cf27da63d2e0318b381d6c5f77941b01f62fe80f779f0"
+hash = "b662e5780e256287b687be7756393907c46cec5793998634cb416ca83ec27ea5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -2094,7 +2094,7 @@ hash = "b93e682e39bde95ffb76e3e3c282b876f13682af7c2de06625f7815d09b12c17"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
-hash = "868edc70048d80fba49ca7c29e420dc71483684993f129296be8ee69bc398f4c"
+hash = "692edda3f393f9a1cdf25fd3b463896e4eeda2287503bad833ecd72951485dbe"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
@@ -15729,8 +15729,8 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.19.4.jar"
-hash = "9b83cd46b87bcb47c6d4e526946ae51464505ff98c5ed02dbd165c80d0232208"
+file = "mods/the_vault-1.18.2-3.19.5.jar"
+hash = "17ebab3b714e1d77cdf861b74e2665a495a72b30ed556678beedf4a1047de01a"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

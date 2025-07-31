@@ -169,6 +169,26 @@
         }
       ]
     },
+    "dog": {
+      "model": "the_vault:deck/treasure#inventory",
+      "name": "The Dog Deck",
+      "essence": {
+        "min": 4,
+        "max": 4
+      },
+      "layout": [
+        {
+          "value": [
+            "OOOOOOOOO",
+            "OOOOOOOOO",
+            "OOOOOOOOO",
+            "OOOOOOOOO",
+            "OOOOOOOOO"
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
     "black": {
       "model": "the_vault:deck/black#inventory",
       "name": "The Black Deck",

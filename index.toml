@@ -1842,7 +1842,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "61b0a2305a0335624fbe3bc86c10316fa8375e0573c95fd5a9facd1d2d4d805a"
+hash = "c32e903e2b57d60bbc79f75f2662c70e42a72e92d17e5d5071a81915153984c5"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"

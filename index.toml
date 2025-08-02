@@ -1842,7 +1842,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "9ad51b17e647a16971d984f83dfdd72db227248a18c3d33c63037dc4a5794499"
+hash = "61b0a2305a0335624fbe3bc86c10316fa8375e0573c95fd5a9facd1d2d4d805a"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"
@@ -3862,7 +3862,7 @@ hash = "0299d37bbea5f2c5acd7a1bd70299c84441e5a26e88c323114a99ea22c7ca28a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_chest.json"
-hash = "3142c6fb9f73081f519a83ccdc5cc518d93087a78846b6efe05a3b1f45c68e56"
+hash = "bce8207c9a1b4e1a7b76d4743c73bb50982abde68cdafd627dfb3c02d91c9565"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"

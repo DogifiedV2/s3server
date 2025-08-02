@@ -265,6 +265,21 @@
           {
             "value": {
               "size": {
+                "min": 7,
+                "max": 20,
+                "type": "uniform"
+              },
+              "model": 8,
+              "modifiers": [
+                "the_vault:coin_pile",
+                "the_vault:challenge_stack"
+              ]
+            },
+            "weight": 9.0
+          },
+          {
+            "value": {
+              "size": {
                 "min": 5,
                 "max": 20,
                 "type": "uniform"

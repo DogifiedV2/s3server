@@ -1317,7 +1317,7 @@
             "maxLevel": -1,
             "weight": 20,
             "value": {
-              "abilityKey": "Vein_Miner_Void",
+              "abilityKey": "Vein_Miner_Chain",
               "levelChange": 1
             }
           },
@@ -1326,7 +1326,7 @@
             "maxLevel": -1,
             "weight": 8,
             "value": {
-              "abilityKey": "Vein_Miner_Void",
+              "abilityKey": "Vein_Miner_Chain",
               "levelChange": 2
             }
           },
@@ -1335,7 +1335,7 @@
             "maxLevel": -1,
             "weight": 40,
             "value": {
-              "abilityKey": "Vein_Miner_Void",
+              "abilityKey": "Vein_Miner_Chain",
               "levelChange": 3
             }
           },
@@ -1344,7 +1344,7 @@
             "maxLevel": -1,
             "weight": 40,
             "value": {
-              "abilityKey": "Vein_Miner_Void",
+              "abilityKey": "Vein_Miner_Chain",
               "levelChange": 4
             }
           }
@@ -6293,7 +6293,7 @@
             "maxLevel": -1,
             "weight": 60,
             "value": {
-              "abilityKey": "Vein_Miner_Void",
+              "abilityKey": "Vein_Miner_Chain",
               "levelChange": 1
             }
           }

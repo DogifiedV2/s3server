@@ -8522,13 +8522,13 @@
         "type": "specialized",
         "id": "Vein_Miner",
         "name": "Vein Miner",
-        "maxLearnableTier": 5,
+        "maxLearnableTier": 4,
         "specializations": [
           {
             "type": "tiered",
             "id": "Vein_Miner_Base",
             "name": "Vein Miner",
-            "maxLearnableTier": 5,
+            "maxLearnableTier": 4,
             "tiers": [
               {
                 "type": "vein_miner",
@@ -8806,7 +8806,7 @@
             "type": "tiered",
             "id": "Vein_Miner_Fortune",
             "name": "Vein Miner: Fortune",
-            "maxLearnableTier": 5,
+            "maxLearnableTier": 4,
             "tiers": [
               {
                 "type": "vein_miner_fortune",
@@ -8894,7 +8894,7 @@
             "type": "tiered",
             "id": "Vein_Miner_Durability",
             "name": "Finesse Miner",
-            "maxLearnableTier": 5,
+            "maxLearnableTier": 4,
             "tiers": [
               {
                 "type": "vein_miner_durability",
@@ -9202,7 +9202,7 @@
             "type": "tiered",
             "id": "Vein_Miner_Chain",
             "name": "Chain Miner",
-            "maxLearnableTier": 5,
+            "maxLearnableTier": 4,
             "tiers": [
               {
                 "type": "vein_miner_chain",

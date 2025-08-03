@@ -9248,7 +9248,7 @@
                 "type": "vein_miner_chain",
                 "blockLimit": 8,
                 "range": 3,
-                "learnPointCost": 1,
+                "learnPointCost": 2,
                 "regretPointCost": 0,
                 "cooldownTicks": 0,
                 "unlockLevel": 0,

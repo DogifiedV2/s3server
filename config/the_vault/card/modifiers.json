@@ -2577,6 +2577,26 @@
       ],
       "maxTier": 1
     },
+    "chain_miner": {
+      "type": "gear",
+      "name": {
+        "text": "Chain Miner Card"
+      },
+      "model": "the_vault:card/icon/vein_miner_chain#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Vein_Miner_Chain",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
     "rampage": {
       "type": "gear",
       "name": {
@@ -3565,10 +3585,10 @@
           "modifier": "the_vault:bronze_nuke",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3590,10 +3610,10 @@
           "modifier": "the_vault:kill_hunter",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3616,10 +3636,10 @@
           "modifier": "the_vault:kill_nuke",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3642,10 +3662,10 @@
           "modifier": "the_vault:kill_totem",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3667,10 +3687,10 @@
           "modifier": "the_vault:loot_goblin",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -3692,10 +3712,10 @@
           "modifier": "the_vault:door_hunter",
           "count": 1,
           "time": {
-  "min": 100,
-  "max": 400,
-  "step": 20
-}
+            "min": 100,
+            "max": 400,
+            "step": 20
+          }
         }
       ],
       "maxTier": 1
@@ -5553,22 +5573,22 @@
       "maxTier": 1
     },
     "wild_green": {
-    "type": "dummy",
-    "name": {
-      "text": "Green Wild Card"
-    },
-    "colors": [
-      "GREEN"
-    ],
-    "groups": [
-      "Wild",
-      "Stat",
-      "Arcane",
-      "Temporal",
-      "Resource",
-      "Evolution"
-    ],
-    "maxTier": 1
+      "type": "dummy",
+      "name": {
+        "text": "Green Wild Card"
+      },
+      "colors": [
+        "GREEN"
+      ],
+      "groups": [
+        "Wild",
+        "Stat",
+        "Arcane",
+        "Temporal",
+        "Resource",
+        "Evolution"
+      ],
+      "maxTier": 1
     },
     "wild_blue": {
       "type": "dummy",
@@ -5931,6 +5951,7 @@
         "value": "mega_jump_break_down",
         "weight": 1.0
       },
+
       {
         "value": "rampage",
         "weight": 1.0
@@ -6080,6 +6101,10 @@
         "weight": 1.0
       },
       {
+        "value": "chain_miner",
+        "weight": 1.0
+      },
+      {
         "value": "life_tap",
         "weight": 1.0
       },
@@ -6113,11 +6138,11 @@
       },
       {
         "value": "toxic_grenade",
-      "weight": 1.0
+        "weight": 1.0
       },
       {
         "value": "mana_barrier",
-      "weight": 1.0
+        "weight": 1.0
       }
     ],
     "temporal": [

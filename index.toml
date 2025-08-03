@@ -1826,7 +1826,7 @@ hash = "deced673eeed84cffaec88bbd579a72ab3cc36d9d0e8b31989cf4af29efaa83d"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "23b93bf3042567b845bfcfc415b2fba91ee4ccd2fd5ec09275a4bf43e4fe41d7"
+hash = "719a62e9e6dd0244f5062760448789a9f414d89d72c37e988b52ddeb7da354a8"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"

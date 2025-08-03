@@ -9246,8 +9246,8 @@
               },
               {
                 "type": "vein_miner_chain",
-                "blockLimit": 8,
-                "range": 3,
+                "blockLimit": 20,
+                "range": 2,
                 "learnPointCost": 2,
                 "regretPointCost": 0,
                 "cooldownTicks": 0,
@@ -9286,7 +9286,7 @@
               },
               {
                 "type": "vein_miner_chain",
-                "blockLimit": 8,
+                "blockLimit": 12,
                 "range": 4,
                 "learnPointCost": 1,
                 "regretPointCost": 0,
@@ -9296,7 +9296,7 @@
               },
               {
                 "type": "vein_miner_chain",
-                "blockLimit": 12,
+                "blockLimit": 16,
                 "range": 4,
                 "learnPointCost": 1,
                 "regretPointCost": 0,
@@ -9306,7 +9306,7 @@
               },
               {
                 "type": "vein_miner_chain",
-                "blockLimit": 16,
+                "blockLimit": 20,
                 "range": 4,
                 "learnPointCost": 1,
                 "regretPointCost": 0,

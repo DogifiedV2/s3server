@@ -1770,7 +1770,7 @@ hash = "b2e1de2749bf5801077b6c64d9e02f5d76ee3c331902bd61125572da4c2595ac"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
-hash = "db01cb3baceef203c87aeb87bcb0dca9f43a8463706c845bd31fd5582bc93e74"
+hash = "19ea1c870ff8d4d1c5cec9a95cab2a467ed5c412e04f6fdadf6b7dc37591762b"
 
 [[files]]
 file = "config/the_vault/bounty/entities.json"
@@ -1790,7 +1790,7 @@ hash = "dbc6df811fcf094c42b3efe3c99dc2c6f8eb42a454ff7251fa3e914a971bd3dc"
 
 [[files]]
 file = "config/the_vault/bounty/task/damage_entity.json"
-hash = "7c73ca9fd8fd0af8eea6809d7064c8005ffe16c041cfc9e21e1a15c98ff2fdb8"
+hash = "ba5c6bb7c44b009fed6aa6240ff3f9137ac5ca0dc84289215f5cb2cc31ffefab"
 
 [[files]]
 file = "config/the_vault/bounty/task/item_discovery.json"
@@ -1802,7 +1802,7 @@ hash = "c3990f939fbad94f244659dafc4cb0d3b912fb461c0f76064af14bf90d8f0911"
 
 [[files]]
 file = "config/the_vault/bounty/task/kill_entity.json"
-hash = "46387efd4667478f7964e734043fde5b1223b7cdcbce22719253d844f28a31f9"
+hash = "39809e00590647fc302702f44433bec11fa5fa1d3bbcfceda8ad4624b9d5bd91"
 
 [[files]]
 file = "config/the_vault/bounty/task/mining.json"

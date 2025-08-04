@@ -33,23 +33,6 @@
             "vaultOnly": true
           },
           "weight": 3
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "minecraft:creeper",
-            "amount": {
-              "min": 100,
-              "max": 500
-            },
-            "floorToNearestTen": true,
-            "validDimensions": [
-              "minecraft:overworld",
-              "minecraft:the_nether"
-            ],
-            "vaultOnly": false
-          },
-          "weight": 3
         }
       ]
     },
@@ -86,23 +69,6 @@
             "vaultOnly": true
           },
           "weight": 3
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "minecraft:creeper",
-            "amount": {
-              "min": 100,
-              "max": 500
-            },
-            "floorToNearestTen": true,
-            "validDimensions": [
-              "minecraft:overworld",
-              "minecraft:the_nether"
-            ],
-            "vaultOnly": false
-          },
-          "weight": 3
         }
       ]
     },
@@ -137,23 +103,6 @@
               "the_vault:vault"
             ],
             "vaultOnly": true
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "minecraft:creeper",
-            "amount": {
-              "min": 100,
-              "max": 500
-            },
-            "floorToNearestTen": true,
-            "validDimensions": [
-              "minecraft:overworld",
-              "minecraft:the_nether"
-            ],
-            "vaultOnly": false
           },
           "weight": 3
         }

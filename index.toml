@@ -15601,12 +15601,12 @@ file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
-file = "mods/player_data_sync-1.12.0.jar"
+file = "mods/player_data_sync-1.12.0.jar.disabled"
 hash = "b55eb1463396c81fc0b3abcaae587f8645bd90d49290b2a7660bbef371f2ef40"
 
 [[files]]
-file = "mods/player_data_sync-1.12.0.jar.disabled"
-hash = "bc5f992fd78ee17347b83ff6522ccff0d4b5442f7f124a1d59392a7970984257"
+file = "mods/player_data_sync-1.13.0.jar"
+hash = "bd7a3b951daf60bc08f94a65d9a0f89f261fd55205bb5d75864b7da6a29da2e6"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.49.jar"

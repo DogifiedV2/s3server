@@ -1842,7 +1842,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "bf69fc3b3cd934d8a5daf628b87f95296624aab66c6ff87b19d105f04279e79a"
+hash = "bd8471a5a08c0d770a9fc6bfe6eb6b883835d7a6c232ce6a460ef17ec8cfa206"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"
@@ -13182,7 +13182,7 @@ hash = "6c14427e2cf16e24b32dcd7ddb61528551ca76dc2409d272cde61f9db81aed08"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "11e6f55d94a74f748af92cb378ef6f60ab7e5de8319e8fcea046621433cedb20"
+hash = "5e9867784079377e5256ea41b4b739a346afbe3e1a6ee73d1caaecedae5b4d1e"
 
 [[files]]
 file = "config/the_vault/item_groups.json"

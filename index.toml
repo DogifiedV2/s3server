@@ -13326,7 +13326,7 @@ hash = "76e8443b6b086b878647c2f3029b8f92ed7f5110ffedeb2823bbea81b09701a8"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "263f1bbfa97d16d1272ad96c354b48426623b5a588ebbde8d0a8386b31ae3215"
+hash = "aa5fa86396e31b5701bede7c8ad9121cb86ec06f9a4aadad10374e1ed156d92c"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
@@ -15726,7 +15726,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.5.jar"
-hash = "74c6bb9d1f32eee5aa50751d9670c31ddeb04967cd33e5f33a1ab14cfd566254"
+hash = "4012b48f480c7e16f6c4547a4aa08713a3e24507afd053dd850924e93a62c31d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -16390,4 +16390,4 @@ hash = "020923fc2520c3ac0d8e558002a007ee7a87d475e6d2f6d3b9d255bdb58fc868"
 
 [[files]]
 file = "world/serverconfig/vault_hunters_sync_server_config.toml"
-hash = "b4ad8cdfa6a40f3b294f2add500a8993a0b169125c08689c2bab810493349986"
+hash = "61d5a3240d84d2bad0f0177ff333bfded490e5b073a284dbfc32593762a35c2a"

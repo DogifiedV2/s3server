@@ -605,7 +605,6 @@
 				"tiers": [
 					{
 						"type": "crafted_legendary_power",
-						"extraLegendaryChance": 0.05,
 						"learnPointCost": 25,
 						"learnKnowledgeCost": 2400,
 						"regretPointCost": 1,

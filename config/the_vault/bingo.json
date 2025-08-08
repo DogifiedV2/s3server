@@ -646,7 +646,7 @@
                 }
               }
             ],
-            "weight": 100.0
+            "weight": 25.0
           },
           {
             "type": "take_no_damage",
@@ -2927,7 +2927,7 @@
                 }
               }
             ],
-            "weight": 100.0
+            "weight": 25.0
           },
           {
             "type": "take_no_damage",
@@ -5208,7 +5208,7 @@
                 }
               }
             ],
-            "weight": 100.0
+            "weight": 25.0
           },
           {
             "type": "take_no_damage",

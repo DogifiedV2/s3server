@@ -1,5 +1,19 @@
 {
   "registry": {
+    "the_vault:treasure_jewel": {
+      "name": "Treasured Jewel",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size_treasure"
+        ],
+        "PREFIX": [
+          "the_vault:u_treasure_affinity"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:jester": {
       "name": "Jester Hat",
       "model": "the_vault:gear/armor/jester/helmet",
@@ -718,6 +732,9 @@
     },
     "the_vault:frostguards": {
       "the_vault:frostguards": 1
+    },
+    "the_vault:treasure_jewel": {
+      "the_vault:treasure_jewel": 1
     },
     "the_vault:annmari": {
       "the_vault:annmari": 1

@@ -1,6 +1,60 @@
 {
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
+      {
+        "attribute": "the_vault:treasure",
+        "group": "ModAffinity",
+        "identifier": "the_vault:u_treasure_affinity",
+        "tags": [
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:jewel_size",
+        "group": "ModHealthMana",
+        "identifier": "the_vault:u_jewel_size_treasure",
+        "tags": [
+          "focusHealth"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 500,
+            "value": {
+              "min": 5,
+              "max": 5,
+              "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:chestbreaching",
+        "group": "BaseBreaching",
+        "identifier": "the_vault:base_breaching",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
       { "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",

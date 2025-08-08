@@ -1762,7 +1762,7 @@ hash = "9ef0d39aa5975187e97338d1939d31a95bba442a27df1b681c62ac82b91b6eb2"
 
 [[files]]
 file = "config/the_vault/bingo.json"
-hash = "352e41613a6af9a726e6963db688d2989339e97675e99afc00a3c81177c97d96"
+hash = "b729c39c0bbdb01ef85e5751ae39f6257cdd70b3fa87c770a05e17c9551ea8e6"
 
 [[files]]
 file = "config/the_vault/black_market.json"
@@ -2082,7 +2082,7 @@ hash = "34ded094cb0172f5dbd3346895eb2bfcd9c05eddd0847ee6dd6f2107efb5fb5f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "b662e5780e256287b687be7756393907c46cec5793998634cb416ca83ec27ea5"
+hash = "222228c7b815b8de5dd4e0c2de89323bcd3e33360e2722a19b9a9e5cd1ff7464"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -2538,7 +2538,7 @@ hash = "8afb522e5e7119b5551a22c4dcd33a4b33e3a8cb5f3068f466e721aeff3f92e8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "8afb522e5e7119b5551a22c4dcd33a4b33e3a8cb5f3068f466e721aeff3f92e8"
+hash = "c0d03cca16ac59e4fd345e80ae1f470861404568937e13fe8803c1306789bdff"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -13238,7 +13238,7 @@ hash = "9dda5c57b68a681d5dc909dccc4062252ccfbb9e639f2d862538c48ee313ae86"
 
 [[files]]
 file = "config/the_vault/menu_player_stat_description.json"
-hash = "062451835b509161cb73dc7817faecfaec04ce8719f061b9dd0838bc43bb4513"
+hash = "8bc442c4b3cfbbca0d4178adc3cec7623ec3608c30c240f4f7834d8d7974b030"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
@@ -13326,11 +13326,11 @@ hash = "76e8443b6b086b878647c2f3029b8f92ed7f5110ffedeb2823bbea81b09701a8"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "631594789f745fa5a86d892b7f3c76638c85ee6fd6c75885463efe00919e2da4"
+hash = "263f1bbfa97d16d1272ad96c354b48426623b5a588ebbde8d0a8386b31ae3215"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
-hash = "709de80600a17f7337941bbc7ad1315a07052e087a04617edfa26268131dd28a"
+hash = "cb44e986522e6125477cd2f056178274279b81712c03789e0effb62fc1975e78"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
@@ -13358,7 +13358,7 @@ hash = "93168aa689b5c1d58f8717d7a7aa5b64c3fd3933902884340d2ecf0db822066a"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
-hash = "dc30069a814b2b809c844d9e2a5aa161d3d625e6e09f536fee2f17e451c33989"
+hash = "687c5066d7ccda22c239f912ecd7b4601b14b5296eb98a3eed6452dda21a0db4"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -13426,7 +13426,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "47d5e4a4bb481b737b7a4cc28dca91b9a0564d03808bcd44da78ff3363df3116"
+hash = "217a8a43ea139f502425b4c678e89169c2ee34b15ddc35fe36ced208add37406"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13554,7 +13554,7 @@ hash = "171293f461823f04aa4c7a063881600dcbb8d38e02ca2d133c205b8e9a25303c"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "7c58a3f6cdc9dae3c2f1751dac0ceb0fad36e4bded2f037b25309f01ac6d4819"
+hash = "90dda296c65f4b9ee21350ca458a9348d3914f0add6a189e25d80d644025bc6d"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -15601,12 +15601,8 @@ file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
-file = "mods/player_data_sync-1.12.0.jar.disabled"
-hash = "b55eb1463396c81fc0b3abcaae587f8645bd90d49290b2a7660bbef371f2ef40"
-
-[[files]]
-file = "mods/player_data_sync-1.13.0.jar"
-hash = "bd7a3b951daf60bc08f94a65d9a0f89f261fd55205bb5d75864b7da6a29da2e6"
+file = "mods/player_data_sync-1.14.0.jar"
+hash = "f47979ee52a4f4175661863c97bd3e6cffd168662623280d2343476dc2494a5c"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.49.jar"
@@ -15665,8 +15661,8 @@ file = "mods/serverconfigupdater-2.2.jar"
 hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
-file = "mods/serverportals-1.18.2-1.0-SNAPSHOT.jar"
-hash = "8e8ad1cc2e2616fc72cb477bb55257f75cb237e3073aad89150fd62902ca09c5"
+file = "mods/serverportals-1.18.2-1.5.jar"
+hash = "e364a6b71f796386b3e3feef5bbee84bc6487d93496e4ff49bb71aae50bdd831"
 
 [[files]]
 file = "mods/shetiphiancore-1.18-3.10.12.jar"
@@ -15730,7 +15726,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.5.jar"
-hash = "f10da37c05a7ce0b7fe40c91f39d26ab50b7bcaced75fba38d645400678e8fbd"
+hash = "74c6bb9d1f32eee5aa50751d9670c31ddeb04967cd33e5f33a1ab14cfd566254"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

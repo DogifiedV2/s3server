@@ -320,6 +320,53 @@
   ,"CommanderPower": [{"text":"Doubles the duration of your "},{"text":"Companion's","color":"#FFD700"},{"text":" "},{"text":"Temporal Modifier","color":"#00FFFF"}]
   ,"MasterfulPower": [{"text":"Doubles any "},{"text":"extra skill levels","color":"#FFA500"},{"text":" gained by gear, cards, trinkets or any other sources"}]
   ,"Companion_Loyalty": [{"text":"Decreases the "},{"text":"cooldown","color":"#008080"},{"text":" of your "},{"text":"companions","color":"#FFFF55"},{"text":" by\n1 "},{"text":"10%","color":"#008080"},{"text":"\n2 "},{"text":"20%","color":"#008080"},{"text":"\n3 "},{"text":"30%","color":"#008080"}]
+  ,"CryonicPower": [
+      {"text":"Cryonic Focuses "},
+      {"text":"always freeze","color":"#00FFFF"},
+      {"text":" a "},
+      {"text":"legendary","color":"#FFD700"}
+    ],
+    "LegendaryGearPower": [
+      {"text":"Increases the "},
+      {"text":"chance","color":"#00FF00"},
+      {"text":" of "},
+      {"text":"legendary gear","color":"#FFD700"},
+      {"text":" by 3%"}
+    ],
+    "CooldownCapPower": [
+      {"text":"Raises the "},
+      {"text":"cooldown reduction cap","color":"#008080"},
+      {"text":" from "},
+      {"text":"80%","color":"#FF5555"},
+      {"text":" to "},
+      {"text":"90%","color":"#00FF00"}
+    ],
+    "CraftedLegendaryPrestigePower": [
+      {"text":"Allows crafted gear to roll"},
+      {"text":" legendary modifiers","color":"#FFD700"},
+      {"text":" using your existing "},
+      {"text":"legendary chance","color":"#00FF00"}
+    ],
+    "ToolCapacityPower": [
+      {"text":"Adds 100 "},
+      {"text":"capacity","color":"#00FF00"},
+      {"text":" to all "},
+      {"text":"crafted tools","color":"#AAAAAA"}
+    ],
+    "BreachingPower": [
+      {"text":"Permanently grants "},
+      {"text":"Breaching","color":"#FF5555"},
+      {"text":" regardless of tool"}
+    ],
+    "CardEfficiencyPower": [
+      {"text":"Doubles all "},
+      {"text":"card efficiency","color":"#00FF00"},
+      {"text":" (e.g., "},
+      {"text":"1%","color":"#FFFF55"},
+      {"text":" becomes "},
+      {"text":"2%","color":"#FFFF55"},
+      {"text":")"}
+    ]
 
   }
 }

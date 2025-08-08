@@ -136,6 +136,33 @@
       ]
     },
     {
+      "jewelAttribute": "the_vault:chestbreaching",
+      "size": 10,
+      "id": "the_vault:jewel_crafting_breaching",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:jewel",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 512,
+          "ITEM": "the_vault:gemstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:omega_pog",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 2500,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
       "jewelAttribute": "the_vault:coin_affinity",
       "size": 5,
       "id": "the_vault:jewel_crafting_coin_affinity",

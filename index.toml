@@ -1422,7 +1422,7 @@ hash = "16030ba31698df22a15b9d913cf6b2e027a799e0a9e551fc17adc4ab9050e37b"
 
 [[files]]
 file = "config/more_vault_tables_config.toml"
-hash = "76268e7794bcd35d3530f4b8811faf775d3bc0a61131b6398fa10a408152398e"
+hash = "7daab6e0881bb0ea27fd6b68d04011414ce1172b6e8810f1c50bd980b9b71d02"
 
 [[files]]
 file = "config/moremekanismprocessing-common.toml"
@@ -15734,7 +15734,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.5.jar"
-hash = "4012b48f480c7e16f6c4547a4aa08713a3e24507afd053dd850924e93a62c31d"
+hash = "c3853b05167b233ddfb377a1529a5f913fafcdfef4650c2f2b8029ab453d6633"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"

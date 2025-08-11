@@ -295,7 +295,7 @@
   ,"Shielded": [{"text":"Grants you an "},{"text":"absorption shield","color":"#FFD700"},{"text":" when entering a vault, equal to your "},{"text":"Max Health","color":"#32CD32"}]
   ,"ChampionsDamage": [{"text":"Increases all your "},{"text":"damage dealt","color":"#B22222"},{"text":" to "},{"text":"Champions","color":"#FFA500"},{"text":" by "},{"text":"50%","color":"#B22222"},{"text":" and doubles their loot."}]
   ,"GluttonyPower": [{"text":"Grants you the effect of the "},{"text":"Gluttony Trinket","color":"#0353d7"},{"text":", increasing your eating and potion consumption time"}]
-  ,"EnderAnchorPower": [{ "text": "\u2734 Toggleable\n\n", "color": "$castType" }, {"text":"Grants you the effect of the "},{"text":"Ender Anchor Trinket","color":"#0353d7"},{"text":", making items in pickup range teleport to you instead of travelling"}]
+  ,"EnderAnchorPower": [{ "text": "\u2734 Toggleable\n\n", "color": "$castType" }, {"text":"THIS POWER IS USELESS, EVERYONE HAS IT BY DEFAULT! Grants you the effect of the "},{"text":"Ender Anchor Trinket","color":"#0353d7"},{"text":", making items in pickup range teleport to you instead of travelling"}]
   ,"Fruity": [{"text":"Doubles the time granted by any "},{"text":"Vault Fruit","color":"#FFD700"}]
   ,"CatDodge": [{"text":"Grants you the effect of the "},{"text":"Cat Trinket","color":"#0353d7"},{"text":", giving you "},{"text":"75% Dodge Chance","color":"#FFD700"},{"text":" and making Creepers not destroy any blocks"}]
   ,"FallImmunity": [{"text":"Grants you the effect of the "},{"text":"Elvish Air Trinket","color":"#0353d7"},{"text":", removing any fall damage"}]

@@ -1674,7 +1674,7 @@ hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "0ef8cdf3e2393154085e3f236c400f06e752e020b22fc879a53e3e6c897e17c2"
+hash = "45f1db0b97110e964df1675fb9424bb938155704880084becf948c5816eedcf0"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -15734,7 +15734,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.19.5.jar"
-hash = "e5ddeb9207a35c998eb6c61cedef82dbfa661a134ac6291a4a20c03b71c54dbd"
+hash = "7d02a9ec01e0eff21670338ca8266f89b34d0dedcb25369ed6ddaf46eb405da1"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -15767,6 +15767,10 @@ hash = "4ce44024fb03e3289f8e3436fbdaf6deee44f12686e20c2bf325e8fb9abb03a4"
 [[files]]
 file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
+
+[[files]]
+file = "mods/twitchspawn_1.18.2-1.9.3.jar"
+hash = "ee0279380265771bce2762b4a92224a756c6f1d2f2741df3c0f00800368e0ce3"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.9.jar"

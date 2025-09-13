@@ -8569,7 +8569,7 @@
               {
                 "type": "vein_miner",
                 "blockLimit": 96,
-                "learnPointCost": 2,
+                "learnPointCost": 1,
                 "regretPointCost": 1,
                 "cooldownTicks": 0,
                 "unlockLevel": 0,

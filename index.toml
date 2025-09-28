@@ -15377,6 +15377,10 @@ file = "mods/comforts-forge-1.18.2-5.0.0.5.jar"
 hash = "6f9d979d8ceb4a81f9e728a343fe99e8ee26cfc610ff91ecd612f2cbec1cb9ff"
 
 [[files]]
+file = "mods/companion_work_station-19.5-1.0.6-all.jar"
+hash = "4c2d969e74f47bb4202faa1c47312af2f30d69abd577e9803750b5442ff78513"
+
+[[files]]
 file = "mods/connectedglass-1.1.13-forge-mc1.18.jar"
 hash = "2161bfd414229a2f8f028344946de51937ecbf95244be210e0be7418c83a1b88"
 
@@ -15451,6 +15455,10 @@ hash = "4a63993d405855890927f422640841702895bdfe1d4aa95befab0467c9d13217"
 [[files]]
 file = "mods/everycomp-1.18.2-1.6.7.jar"
 hash = "9b12145ac6985acd919d926ad7d3f5b83c635972e568f61cda8efdbeebb3f85b"
+
+[[files]]
+file = "mods/everycomp-1.18.2-1.6.8.jar"
+hash = "a752d5c445b4a4c582316ba74e2bee05028d2a778190d863b68d6cf53ee1c394"
 
 [[files]]
 file = "mods/fairylights-5.0.0-1.18.2.jar"
@@ -15571,6 +15579,10 @@ hash = "6bfb1d56734f596f74c2a59c1630d65cedd28d59abfa082eb01be52f4c396c81"
 [[files]]
 file = "mods/mcw-windows-2.2.1-mc1.18.2forge.jar"
 hash = "6bca432cfed17b4ff91e363c1c1df18fbaf671c1c0f6c16cc62063c7a11eebce"
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.2.jar"
+hash = "a5d2087f8a785244efe1ec894a09fe49f6e4fb9956a00b113df8e6a265cc5549"
 
 [[files]]
 file = "mods/merequester-1.18.2-1.1.2.jar"
@@ -15789,8 +15801,8 @@ file = "mods/vault_hunters_sync_server_config-1.5.0.jar"
 hash = "f08d03c24f7a78b4f7f8793705eda3377a62489b98be5cca37c4447b991be41b"
 
 [[files]]
-file = "mods/vaultfilters-1.22.0.jar"
-hash = "ae099c5ad07063baafa4fd7b719fb6ae9ebd5184b1b756bacb83e807f1dff829"
+file = "mods/vaultfilters-1.26.1.jar"
+hash = "07bb59645ccc8d5fc397dc1c7f117c6e784c185c2202a7438e3be7641fad643c"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.16.jar"

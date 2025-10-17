@@ -15345,8 +15345,8 @@ file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"
 hash = "edd83605626f94ed9c66c51d3aa7d0d302618be80a910665fc7739db4c911c4b"
 
 [[files]]
-file = "mods/auxiliaryblocks-1.18.2-0.4.1.jar"
-hash = "372ff33b06fd7eebcb74e78f4d2a741629c56c49c16513654e84f8598fcd6a54"
+file = "mods/auxiliaryblocks-1.18.2-0.4.2.jar"
+hash = "0e3811ebace58334b1adc8b5c66588df0829659cb395f858dc34bebbbd8c0ffb"
 
 [[files]]
 file = "mods/balm-3.2.6.jar"

@@ -1,60 +1,6 @@
 {
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
-      {
-        "attribute": "the_vault:treasure",
-        "group": "ModAffinity",
-        "identifier": "the_vault:u_treasure_affinity",
-        "tags": [
-          "noLegendary"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 20,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:jewel_size",
-        "group": "ModHealthMana",
-        "identifier": "the_vault:u_jewel_size_treasure",
-        "tags": [
-          "focusHealth"
-        ],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 500,
-            "value": {
-              "min": 5,
-              "max": 5,
-              "step": 1
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:chestbreaching",
-        "group": "BaseBreaching",
-        "identifier": "the_vault:base_breaching",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "flag": true
-            }
-          }
-        ]
-      },
       { "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
@@ -913,6 +859,25 @@
             "value": {
               "min": 5,
               "max": 20,
+              "step": 5
+            }
+          }
+        ]
+      },
+      { "attribute": "the_vault:jewel_size",
+        "group": "ModHealthMana",
+        "identifier": "the_vault:u_jewel_size_pax",
+        "tags": [
+          "focusHealth"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 500,
+            "value": {
+              "min": 5,
+              "max": 15,
               "step": 5
             }
           }
@@ -3733,6 +3698,20 @@
         "tiers": [
           {
             "minLevel": 0,
+            "maxLevel": 49,
+            "weight": 5,
+            "value": {
+              "specialModificationKey": "the_vault:entropic_bind_poison",
+              "abilityKey": "Empower_Slowness_Aura",
+              "textColor": 14076214,
+              "highlightColor": 6082075,
+              "min": 1,
+              "max": 6,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 50,
             "maxLevel": -1,
             "weight": 5,
             "value": {
@@ -3740,8 +3719,8 @@
               "abilityKey": "Empower_Slowness_Aura",
               "textColor": 14076214,
               "highlightColor": 6082075,
-              "min": 2,
-              "max": 6,
+              "min": 7,
+              "max": 12,
               "step": 1
             }
           }

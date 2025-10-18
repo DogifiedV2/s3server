@@ -2530,11 +2530,11 @@ hash = "643a9a42e9f0ca66b10cf332f8e7294e78b5e476150ffb64337bf615094d76d4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl0.json"
-hash = "ce944464c8e5844c4eebf43d1757be5846162771e69e64da85426387a167eaee"
+hash = "f31f6b3d98c2d92afef11b7550af40ddb00a0b9d60a4c8f50a1703cbbaaa3bbf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl50.json"
-hash = "24e1a51bec3ef3727fcc282d3e579bb87e3ba1cbaedd1a55f0dd51745cf2bcb7"
+hash = "be8a1004328ca2f73d850c3ff7d1c14e2858b126e39aa9d2e7ad8a79e799c1e1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/test_table.json"
@@ -9766,7 +9766,7 @@ hash = "240bab02e1bd5621eca3de23358521ec28a3c80eeafb00d28d4666603985e59f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
-hash = "19c96f096187c0df39d7771228d953c2fd6910c3fe38041af016822a42c7bbef"
+hash = "fdea3eb4f75069d4f06239b02a3744eb2fe50f4ec9ef334c949ba9046788294b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1_old.nbt"
@@ -13618,7 +13618,7 @@ hash = "4ab7d5502461d4d1c0ffcb5779cd04d62d6251e070b5251a8530c978791275e2"
 
 [[files]]
 file = "config/the_vault/vault_boss.json"
-hash = "a11a59e382f62676a1486e1fe003dfab9c8a284edd89b82157624f8e515f28f5"
+hash = "33849bfd54cf072553fb3e461554c3d5cba9bf783a5402e4874078ac81d7c23a"
 
 [[files]]
 file = "config/the_vault/vault_boss.json.nuke"
@@ -13702,7 +13702,7 @@ hash = "91a983c757341970e22f99c4938591399372fb333cff57687db71d2f2c820a34"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "966916dd2aac70ca73cd2a8c23a90048db9b9970fdddbb91d461c1be31f1b97b"
+hash = "612f2fbf00f391b1c9efe40cf642ba91aaca5a6f16327f5fe0a296ed82a58eea"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"

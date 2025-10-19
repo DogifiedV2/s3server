@@ -1718,7 +1718,7 @@ hash = "caee36e92b1fe2311361c8fb8b29aec39d0d9c1bce935f8ecb157586224b8ab6"
 
 [[files]]
 file = "config/the_vault/alchemy_table_old.json"
-hash = "8aa44baa036415fb8f0a40edb274756c39ab099558687f6b9d15f06fe50af1e8"
+hash = "d558358dc36136d4c9b8cfaa840341753aa2c00667cfc33d782c377628acbc39"
 
 [[files]]
 file = "config/the_vault/ancient_copper_golem.json"

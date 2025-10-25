@@ -1930,7 +1930,7 @@ hash = "48f2b5e40cec842b9cf3480140219bc960e809173459987f24375616f8bf7ba9"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "7691daa3d87608a967ab5072140f747db1b2ce2bbf5983431434acf003bd3ff0"
+hash = "d19b344a08af4b8a09c329cad2fc0375e806c5741499a3c94ea874814e6f7936"
 
 [[files]]
 file = "config/the_vault/entity_hitbox_offsets.json"
